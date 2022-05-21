@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.xpstockbeta1" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.XPStockBeta1" >
+        <activity
+            android:name=".pantallas.pantallaLista"
+            android:exported="false" />
+        <activity
+            android:name=".pantallas.pantallaBusqueda"
+            android:exported="false" />
+        <activity
+            android:name=".pantallas.buscar"
+            android:exported="false" />
+        <activity
+            android:name=".pantallas.precios"
+            android:exported="false" />
+        <activity
+            android:name=".pantallas.inventario"
+            android:exported="false" />
+        <activity
+            android:name=".pantallas.PantallaMainMenu"
+            android:exported="true"
+            android:theme="@style/splashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

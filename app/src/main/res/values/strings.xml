@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XP Stock Beta 1</string>
+    <string name="inventario">Inventario</string>
+    <string name="listas">Lista de Precios</string>
+    <string name="buscador">Buscador</string>
+    <string name="version">1.3</string>
+</resources>
