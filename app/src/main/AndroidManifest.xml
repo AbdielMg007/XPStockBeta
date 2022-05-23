@@ -8,26 +8,31 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:screenOrientation="portrait"
         android:theme="@style/Theme.XPStockBeta1" >
         <activity
             android:name=".pantallas.pantallaLista"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".pantallas.pantallaBusqueda"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".pantallas.buscar"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".pantallas.precios"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".pantallas.inventario"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".pantallas.PantallaMainMenu"
             android:exported="true"
+            android:screenOrientation="portrait"
             android:theme="@style/splashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

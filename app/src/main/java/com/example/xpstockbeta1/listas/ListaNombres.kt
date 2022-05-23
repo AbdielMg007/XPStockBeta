@@ -679,9 +679,6 @@ class listaNombres(var celularIngresado: String){
         producto[3][101] = "samsungS20 PLUS" //original
         producto[4][101] = "S20 PLUS" //oled
         producto[5][101] = "S20" //incell
-        producto[6][101] = "0" // cof
-        producto[7][101] = "0" //cog
-        producto[8][101] = "0" // tft
 
         producto[0][102] = "102"//id
         producto[1][102] = "samsungS20 U W/F" //marca
@@ -689,6 +686,8 @@ class listaNombres(var celularIngresado: String){
         producto[3][102] = "samsungS20 U" //original
         producto[4][102] = "S20 U " //oled
         producto[5][102] = "S20" //incell
+        producto[6][102] = "samsungS20 Ultra" //original
+        producto[7][102] = "S20 Ultra" //oled
 
         producto[0][103] = "103"//id
         producto[1][103] = "samsungS21 PLUS W/F" //marca

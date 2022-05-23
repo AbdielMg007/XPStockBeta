@@ -1261,7 +1261,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[1][124] = "apple"
         producto[2][124] = "XS MAX"//modelo
         producto[3][124] = "0"
-        producto[4][124] = "1702"
+        producto[4][124] = "1700"
         producto[5][124] = "1100"
         producto[6][124] = "0"
         producto[7][124] = "0"
@@ -2202,7 +2202,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][216] = "216"//id
         producto[1][216] = "motorola" //marca
         producto[2][216] = "G10 / G30"//modelo
-        producto[3][216] = "455" //original
+        producto[3][216] = "450" //original
         producto[4][216] = "0" //oled
         producto[5][216] = "0" //incell
         producto[6][216] = "0" // cof
