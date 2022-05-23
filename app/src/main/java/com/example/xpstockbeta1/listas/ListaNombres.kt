@@ -1531,6 +1531,8 @@ class listaNombres(var celularIngresado: String){
         producto[6][188] = "MOTOROLAE5" // cof
         producto[7][188] = "E" //cog
         producto[8][188] = "G" // tft
+        producto[9][188] = "motoG6" // tft
+        producto[10][188] = "G6" // tft
 
         producto[0][189] = "189"//id
         producto[1][189] = "E5" //marca
