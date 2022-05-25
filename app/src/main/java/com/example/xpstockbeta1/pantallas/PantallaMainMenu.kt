@@ -21,7 +21,7 @@ class PantallaMainMenu : AppCompatActivity() {
         val pasar = Intent(this, precios::class.java)
         startActivity(pasar)
     }
-    fun inventario(view: View?) {
+    fun configuracion(view: View?) {
         val pasar = Intent(this, inventario()::class.java)
         startActivity(pasar)
     }

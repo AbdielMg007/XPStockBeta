@@ -77,10 +77,10 @@ class adapterTarget(private val activity: Activity, var datoMarca: String) : Rec
     }
 
     fun crearArregloPrecios(opcion: Int, marca: String): Array<Array<String?>> {
-        val preciosDb = Array(6) { arrayOfNulls<String>(290) }
+        val preciosDb = Array(6) { arrayOfNulls<String>(310) }
         var aux = 0
         if(opcion == 1) {
-            for (i in 0..290) {
+            for (i in 0..310) {
                 val marcaChecada = listadb(i.toString(), "marca")
                 if (marcaChecada().uppercase() == marca.uppercase()) {
                     val preciosOriginal = listadb((i).toString(), "original")
@@ -127,10 +127,10 @@ class adapterTarget(private val activity: Activity, var datoMarca: String) : Rec
     }
 
     fun llenarModelo(opcion: Int, marca: String): Array<String?> {
-        var modeloDb = arrayOfNulls<String?>(290)
+        var modeloDb = arrayOfNulls<String?>(310)
         var aux = 0
         if(opcion == 1) {
-            for (i in 0..290) {
+            for (i in 0..310) {
                 val marcaChecada = listadb(i.toString(), "marca")
                 if (marcaChecada().uppercase() == marca.uppercase()){
                     val modeloMandar= listadb(i.toString(), "modelo")

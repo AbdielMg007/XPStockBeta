@@ -1,7 +1,23 @@
 <resources>
     <string name="app_name">XP Stock Beta 1</string>
     <string name="inventario">Inventario</string>
+    <string name="configuracion">Configuracion</string>
     <string name="listas">Lista de Precios</string>
     <string name="buscador">Buscador</string>
-    <string name="version">1.0.0</string>
+    <string name="filtos">Filtros de el buscador</string>
+    <string name="bitacora">Acerca De</string>
+    <string name="seleccionalista">Selecciona la lista</string>
+    <string name="lista31">Lista 31</string>
+    <string name="lista41">Lista 41</string>
+    <string name="lista51">Lista 51</string>
+    <string name="lista61">Lista 61</string>
+    <string name="lista71">Lista 71</string>
+    <string name="filtromarca">Mostrar Imagen de la marca</string>
+    <string name="filtrodisponibles">Mostara celular aun que no haya stock</string>
+    <string name="filtrodisponibilidad">Mostrar la disponibilidad</string>
+    <string name="filtrocero">Mostrar solo calidades de pantalla disponible</string>
+    <string name="aplicar">Aplicar</string>
+    <string name="version">1.1.0</string>
+
+
 </resources>
