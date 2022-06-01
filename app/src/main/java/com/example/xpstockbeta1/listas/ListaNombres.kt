@@ -18,847 +18,848 @@ class listaNombres(var celularIngresado: String){
 
 
         producto[0][1] = "1"//id
-        producto[1][1] = "samsungA01 big M"
+        producto[1][1] = "samA01 big M"
         producto[2][1] = "A01 big M"//modelo
         producto[4][1] = "A01"
 
         producto[0][2] = "2"//id
-        producto[1][2] = "samsung A01"
-        producto[2][2] = "A01 samsungall F"//modelo
+        producto[1][2] = "sam A01"
+        producto[2][2] = "A01 samall F"//modelo
         producto[3][2] = "A01"
         producto[4][2] = "A01 small"
 
         producto[0][3] = "3"//id
-        producto[1][3] = "samsungA01 core"
+        producto[1][3] = "samA01 core"
         producto[2][3] = "A01 core"//modelo
         producto[3][3] = "A01"
 
         producto[0][4] = "4"//id
-        producto[1][4] = "samsungA02S"
+        producto[1][4] = "samA02S"
         producto[2][4] = "A02S"//modelo
         producto[3][4] = "A02core"
         producto[4][4] = "A02"
-        producto[5][4] = "samsungA02core"
+        producto[5][4] = "samA02core"
 
         producto[0][5] = "5"//id
-        producto[1][5] = "samsungA03"
+        producto[1][5] = "samA03"
         producto[2][5] = "A03"//modelo
 
         producto[0][6] = "6"//id
-        producto[1][6] = "samsung A03S"
+        producto[1][6] = "sam A03S"
         producto[2][6] = "A03S"//modelo
         producto[3][6] = "A03"
 
         producto[0][7] = "7"//id
-        producto[1][7] = "samsungA03 Core"
+        producto[1][7] = "samA03 Core"
         producto[2][7] = "A03 Core"//modelo
         producto[3][7] = "A03"
 
         producto[0][8] = "8"//id
-        producto[1][8] = "samsungA10"
+        producto[1][8] = "samA10"
         producto[2][8] = "A10"
 
         producto[0][9] = "9"//id
-        producto[1][9] = "samsungA10 W/F"
+        producto[1][9] = "samA10 W/F"
         producto[2][9] = "A10 W/F"//modelo
         producto[3][9] = "W/F"
-        producto[4][9] = "samsungA10"
+        producto[4][9] = "samA10"
         producto[4][9] = "A10"
 
         producto[0][10] = "10"//id
-        producto[1][10] = "samsungA10 E"
+        producto[1][10] = "samA10 E"
         producto[2][10] = "A10 E"//modelo
         producto[3][10] = "A10"
 
         producto[0][11] = "11"//id
-        producto[1][11] = "samsungA10S"
+        producto[1][11] = "samA10S"
         producto[2][11] = "A10S"//modelo
         producto[3][11] = "A10"
 
         producto[0][12] = "12"//id
-        producto[1][12] = "samsungA11"
+        producto[1][12] = "samA11"
         producto[2][12] = "A11"//modelo
 
         producto[0][13] = "13"//id
-        producto[1][13] = "samsungA12"
+        producto[1][13] = "samA12"
         producto[2][13] = "A12"//modelo
 
         producto[0][290] = "290"//id
-        producto[1][290] = "samsung a13" //marca
+        producto[1][290] = "sam a13" //marca
         producto[2][290] = "A13"//modelo
-        producto[3][290] = "samsung a135" //original
+        producto[3][290] = "sam a135" //original
         producto[4][290] = "A135" //oled
-        producto[5][290] = "samsung a13 4g" //incell
+        producto[5][290] = "sam a13 4g" //incell
         producto[6][290] = "a13 4g" // cof
 
         producto[0][291] = "291"//id
-        producto[1][291] = "samsung a13" //marca
+        producto[1][291] = "sam a13" //marca
         producto[2][291] = "A13"//modelo
-        producto[3][291] = "samsung a136" //original
+        producto[3][291] = "sam a136" //original
         producto[4][291] = "A136" //oled
-        producto[5][291] = "samsung a13 5g" //incell
+        producto[5][291] = "sam a13 5g" //incell
         producto[6][291] = "a13 5g" // cof
 
         producto[0][14] = "14"//id
-        producto[1][14] = "samsungA20"
+        producto[1][14] = "samA20"
         producto[2][14] = "A20"//modelo
 
         producto[0][15] = "15"//id
-        producto[1][15] = "samsungA20 W/F"
+        producto[1][15] = "samA20 W/F"
         producto[2][15] = "A20 W/F"//modelo
-        producto[3][15] = "samsungA20"
+        producto[3][15] = "samA20"
         producto[4][15] = "W/F"
         producto[5][15] = "A20"
 
         producto[0][16] = "16"//id
-        producto[1][16] = "samsungA20S"
+        producto[1][16] = "samA20S"
         producto[2][16] = "A20S"//modelo
         producto[3][16] = "A20"
 
 
         producto[0][17] = "17"//id
-        producto[1][17] = "samsungA21"
+        producto[1][17] = "samA21"
         producto[2][17] = "A21"//modelo
 
         producto[0][18] = "18"//id
-        producto[1][18] = "samsungA21S"
+        producto[1][18] = "samA21S"
         producto[2][18] = "A21S"//modelo
         producto[3][18] = "A21"
 
         producto[0][19] = "19"//id
-        producto[1][19] = "samsungA22  4G W/F"
+        producto[1][19] = "samA22  4G W/F"
         producto[2][19] = "A22  4G W/F"//modelo
-        producto[3][19] = "samsungA22"
+        producto[3][19] = "samA22"
         producto[4][19] = "A22"
-        producto[5][19] = "samsungA22  4G"
+        producto[5][19] = "samA22  4G"
         producto[6][19] = "A22  4G"
         producto[7][19] = "W/F"
 
         producto[0][20] = "20"//id
-        producto[1][20] = "samsungA225G W/F"
+        producto[1][20] = "samA225G W/F"
         producto[2][20] = "A22  5G W/F"//modelo
-        producto[3][20] = "samsungA22 samsungall"
-        producto[4][20] = "A22samsungll"
+        producto[3][20] = "samA22 samall"
+        producto[4][20] = "A22samll"
         producto[5][20] = "5G "
         producto[6][20] = "W/F"
         producto[6][20] = "a22"
 
         producto[0][21] = "21"//id
-        producto[1][21] = "samsungA225G W/F"
+        producto[1][21] = "samA225G W/F"
         producto[2][21] = "A22  5G W/F"//modelo
-        producto[3][21] = "samsungA225G"
-        producto[4][21] = "samsungA22"
+        producto[3][21] = "samA225G"
+        producto[4][21] = "samA22"
         producto[5][21] = "5G "
         producto[6][21] = "W/F"
         producto[6][21] = "a22"
 
         producto[0][292] = "291"//id
-        producto[1][292] = "samsung A23" //marca
+        producto[1][292] = "sam A23" //marca
         producto[2][292] = "A23"//modelo
-        producto[3][292] = "samsung a135f" //original
+        producto[3][292] = "sam a135f" //original
         producto[4][292] = "A135f" //oled
 
         producto[0][22] = "22"//id
-        producto[1][22] = "samsungA260"
+        producto[1][22] = "samA260"
         producto[2][22] = "A260"//modelo
         producto[3][22] = "A2core"
-        producto[4][22] = "samsungA2core"
+        producto[4][22] = "samA2core"
         producto[6][22] = "A2"
 
         producto[0][23] = "23"//id
-        producto[1][23] = "samsungA30"
+        producto[1][23] = "samA30"
         producto[2][23] = "A30"//modelo
 
         producto[0][24] = "24"//id
-        producto[1][24] = "samsungA30 W/F"
+        producto[1][24] = "samA30 W/F"
         producto[2][24] = "A30 W/F"//modelo
         producto[3][24] = "A30"
-        producto[4][24] = "samsungA30"
+        producto[4][24] = "samA30"
 
         producto[0][25] = "25"//id
-        producto[1][25] = "samsungA30S"
+        producto[1][25] = "samA30S"
         producto[2][25] = "A30S"//modelo
         producto[3][25] = "A30"
 
         producto[0][26] = "26"//id
-        producto[1][26] = "samsungA30S W/F"
+        producto[1][26] = "samA30S W/F"
         producto[2][26] = "A30S W/F"//modelo
         producto[3][26] = "A30S"
-        producto[4][26] = "samsungA30S"
-        producto[5][26] = "samsungA30"//modelo
+        producto[4][26] = "samA30S"
+        producto[5][26] = "samA30"//modelo
         producto[6][26] = "A30"
 
         producto[0][27] = "27"//id
-        producto[1][27] = "samsungA31"
+        producto[1][27] = "samA31"
         producto[2][27] = "A315"//modelo
         producto[3][27] = "A31"
-        producto[4][27] = "samsungA315"
+        producto[4][27] = "samA315"
 
         producto[0][28] = "28"//id
-        producto[1][28] = "samsungA31"
+        producto[1][28] = "samA31"
         producto[2][28] = "A31"//modelo
-        producto[3][28] = "samsungA315"
+        producto[3][28] = "samA315"
         producto[4][28] = "A315W/F"
         producto[5][28] = "A315W/F"
         producto[8][28] = " W/F"
 
         producto[0][29] = "29"//id
-        producto[1][29] = "samsungA32 4G W/F"
+        producto[1][29] = "samA32 4G W/F"
         producto[2][29] = "A32 4G W/F"//modelo
-        producto[3][29] = "samsungA325 4G W/F"
+        producto[3][29] = "samA325 4G W/F"
         producto[4][29] = "A325 4G W/F"
-        producto[5][29] = "samsungA32 4G"
-        producto[6][29] = "samsungA325 4G"
+        producto[5][29] = "samA32 4G"
+        producto[6][29] = "samA325 4G"
         producto[7][29] = "A32 4G"
         producto[8][29] = "A325 4G"
         producto[9][29] = "a32BIG"
         producto[10][29] = "a32"
-        producto[11][29] = "samsunga32"
+        producto[11][29] = "sama32"
 
         producto[0][292] = "292"//id
-        producto[1][292] = "samsungA32 4G W/F"
+        producto[1][292] = "samA32 4G W/F"
         producto[2][292] = "A32 4G W/F"//modelo
-        producto[3][292] = "samsungA325 4G W/F"
+        producto[3][292] = "samA325 4G W/F"
         producto[4][292] = "A325 4G W/F"
-        producto[5][292] = "samsungA32 4G"
-        producto[6][292] = "samsungA325 4G"
+        producto[5][292] = "samA32 4G"
+        producto[6][292] = "samA325 4G"
         producto[7][292] = "A32 4G"
         producto[8][292] = "A325 4G"
         producto[9][292] = "A32 SMALL"
         producto[10][292] = "a32"
-        producto[11][292] = "samsunga32"
+        producto[11][292] = "sama32"
 
 
         producto[0][30] = "30"//id
-        producto[1][30] = "samsungA50"
+        producto[1][30] = "samA50"
         producto[2][30] = "A50"//modelo
 
         producto[0][31] = "31"//id
-        producto[1][31] = "samsungA50 W/F"
+        producto[1][31] = "samA50 W/F"
         producto[2][31] = "A50 W/F"//modelo
-        producto[3][31] = "SamsungA50"
+        producto[3][31] = "samA50"
         producto[4][31] = "A50 "
         producto[5][31] = "W/F"
 
         producto[0][32] = "32"//id
-        producto[1][32] = "samsungA50S"
+        producto[1][32] = "samA50S"
         producto[2][32] = "A50S"//modelo
 
         producto[0][33] = "33"//id
-        producto[1][33] = "samsungA50S W/F"
+        producto[1][33] = "samA50S W/F"
         producto[2][33] = "A50S W/F"//modelo
-        producto[3][33] = "samsungA50S"
+        producto[3][33] = "samA50S"
         producto[4][33] = "A50S"
         producto[5][33] = " W/F"
 
         producto[0][34] = "34"//id
-        producto[1][34] = "samsungA510"
+        producto[1][34] = "samA510"
         producto[2][34] = "A510"//modelo
-        producto[3][34] = "samsungA52016"
+        producto[3][34] = "samA52016"
         producto[4][34] = "A52016"
-        producto[5][34] = "samsungA5"
+        producto[5][34] = "samA5"
         producto[6][34] = "A5"
 
         producto[0][35] = "35"//id
-        producto[1][35] = "samsungA515"
+        producto[1][35] = "samA515"
         producto[2][35] = "A515 "//modelo
-        producto[3][35] = "samsungA51 BIG"
+        producto[3][35] = "samA51 BIG"
         producto[4][35] = "A51 BIG"
         producto[5][35] = "A51"
-        producto[6][35] = "samsungA51"
+        producto[6][35] = "samA51"
 
         producto[0][36] = "36"//id
-        producto[1][36] = "samsungA515W/F"
+        producto[1][36] = "samA515W/F"
         producto[2][36] = "A515W/F"//modelo
-        producto[3][36] = "samsungA51 BIG W/F"
+        producto[3][36] = "samA51 BIG W/F"
         producto[4][36] = "A51 BIG W/F"
-        producto[5][36] = "samsungA51 BIG"
+        producto[5][36] = "samA51 BIG"
         producto[6][36] = "A51 BIG"
-        producto[7][36] = "samsungA515"
+        producto[7][36] = "samA515"
         producto[8][36] = "A515"
-        producto[9][36] = "samsungA51"
+        producto[9][36] = "samA51"
         producto[10][36] = "A51"
 
         producto[0][37] = "37"//id
-        producto[1][37] = "samsungA51 W/F"
+        producto[1][37] = "samA51 W/F"
         producto[2][37] = "A51W/F"//modelo
-        producto[3][37] = "samsungA515 W/F"
+        producto[3][37] = "samA515 W/F"
         producto[4][37] = "A515W/F"
-        producto[5][37] = "samsungA51"
+        producto[5][37] = "samA51"
         producto[6][37] = "A51"
-        producto[7][37] = "samsungA515"
+        producto[7][37] = "samA515"
         producto[8][37] = "A515"
 
         producto[0][38] = "38"//id
-        producto[1][38] = "samsungA515SMALL"
+        producto[1][38] = "samA515SMALL"
         producto[2][38] = "A515SMALL"//modelo
-        producto[3][38] = "samsungA51"
+        producto[3][38] = "samA51"
         producto[4][38] = "A51 SMALL"
         producto[5][38] = "a51"
 
         producto[0][39] = "39"//id
-        producto[1][39] = "samsungA515SMALL"
+        producto[1][39] = "samA515SMALL"
         producto[2][39] = "A515SMALL"//modelo
-        producto[3][39] = "samsungA51"
+        producto[3][39] = "samA51"
         producto[4][39] = "A51 SMALL"
         producto[5][39] = "a51"
 
         producto[0][40] = "40"//id
-        producto[1][40] = "samsungA525 "
+        producto[1][40] = "samA525 "
         producto[2][40] = "A52/A525  4G W/F"//modelo
-        producto[3][40] = "samsungA52"
+        producto[3][40] = "samA52"
         producto[4][40] = "A52"
 
         producto[0][41] = "41"//id
-        producto[1][41] = "samsungA525"
+        producto[1][41] = "samA525"
         producto[2][41] = "A52/A525 5G W/F"//modelo
-        producto[3][41] = "samsungA52"
+        producto[3][41] = "samA52"
         producto[4][41] = "A52"
-        producto[5][41] = "samsungA525g"
+        producto[5][41] = "samA525g"
         producto[6][41] = "A525g"
 
         producto[0][42] = "42"//id
-        producto[1][42] = "samsungA52017 BIG"
+        producto[1][42] = "samA52017 BIG"
         producto[2][42] = "A52017 BIG"//modelo
-        producto[3][42] = "samsungA520"
+        producto[3][42] = "samA520"
         producto[4][42] = "A520"
         producto[5][42] = "550"
-        producto[6][42] = "samsungA5"
+        producto[6][42] = "samA5"
         producto[7][42] = "a5"
         producto[8][42] = "A52017"
 
         producto[0][43] = "43"//id
-        producto[1][43] = "samsungA52018"
+        producto[1][43] = "samA52018"
         producto[2][43] = "A52018"//modelo
-        producto[3][43] = "samsungA530"
+        producto[3][43] = "samA530"
         producto[4][43] = "A530"
-        producto[5][43] = "samsungA5"
+        producto[5][43] = "samA5"
         producto[6][43] = "a5"
 
         producto[0][44] = "44"//id
-        producto[1][44] = "samsungJ8 plus"
+        producto[1][44] = "samJ8 plus"
         producto[2][44] = "J8 plus"//modelo
-        producto[3][44] = "samsungA6 plus"
+        producto[3][44] = "samA6 plus"
         producto[4][44] = "A6 plus"
-        producto[5][44] = "samsungJ8"
+        producto[5][44] = "samJ8"
         producto[6][44] = "j8"
-        producto[7][44] = "samsungA6"
+        producto[7][44] = "samA6"
         producto[8][44] = "a6"
-        producto[9][44] = "samsungA6+"
+        producto[9][44] = "samA6+"
         producto[10][44] = "a6+"
 
         producto[0][45] = "45"//id
-        producto[1][45] = "samsungA70"
+        producto[1][45] = "samA70"
         producto[2][45] = "A70"//modelo
-        producto[3][45] = "samsungA70s"
+        producto[3][45] = "samA70s"
         producto[4][45] = "A70s"//modelo
 
 
         producto[0][46] = "46"//id
-        producto[1][46] = "samsungA70 BIG"
+        producto[1][46] = "samA70 BIG"
         producto[2][46] = "A70 BIG"//modelo
-        producto[3][46] = "samsungA70"
+        producto[3][46] = "samA70"
         producto[4][46] = "A70"
-        producto[5][46] = "samsungA70s big"
+        producto[5][46] = "samA70s big"
         producto[6][46] = "70s big"
 
         producto[0][47] = "47"//id
-        producto[1][47] = "samsungA70 BIG W/F"
+        producto[1][47] = "samA70 BIG W/F"
         producto[2][47] = "A70 BIG W/F"//modelo
-        producto[3][47] = "samsungA70 BIG"
+        producto[3][47] = "samA70 BIG"
         producto[4][47] = "A70 BIG"
-        producto[5][47] = "samsungA70"
+        producto[5][47] = "samA70"
         producto[6][47] = "a70"
-        producto[7][47] = "samsungA70s big"
+        producto[7][47] = "samA70s big"
         producto[8][47] = "70s big"
 
         producto[0][48] = "48"//id
-        producto[1][48] = "samsungA70 SMALL"
+        producto[1][48] = "samA70 SMALL"
         producto[2][48] = "A70 SMALL"//modelo
-        producto[3][48] = "samsungA70"
+        producto[3][48] = "samA70"
         producto[4][48] = "a70"
 
         producto[0][49] = "49"//id
-        producto[1][49] = "samsungA70 SMALL W/F"
+        producto[1][49] = "samA70 SMALL W/F"
         producto[2][49] = "A70 SMALL W/F"//modelo
-        producto[3][49] = "samsungA70 SMALL"
+        producto[3][49] = "samA70 SMALL"
         producto[4][49] = "A70 SMALL"
-        producto[5][49] = "samsungA70"
+        producto[5][49] = "samA70"
         producto[6][49] = "A70"
         producto[7][49] = "A70s"
 
         producto[0][50] = "50"//id
-        producto[1][50] = "samsungA72016"
+        producto[1][50] = "samA72016"
         producto[2][50] = "A72016"//modelo
-        producto[3][50] = "samsungA710"
-        producto[4][50] = "samsungA7"
+        producto[3][50] = "samA710"
+        producto[4][50] = "samA7"
         producto[5][50] = "a7"
 
         producto[0][51] = "51"//id
-        producto[1][51] = "samsungA71"
+        producto[1][51] = "samA71"
         producto[2][51] = "A71"//modelo
-        producto[3][51] = "samsungA715"
+        producto[3][51] = "samA715"
         producto[4][51] = "A715"
 
         producto[0][52] = "52"//id
-        producto[1][52] = "samsungA71 BIg W/F"
+        producto[1][52] = "samA71 BIg W/F"
         producto[2][52] = "A715/"//modelo
-        producto[3][52] = "samsungA715"
+        producto[3][52] = "samA715"
         producto[4][52] = "A71 BIg W/F"
-        producto[5][52] = "samsungA71 BIg"
+        producto[5][52] = "samA71 BIg"
         producto[6][52] = "A71 BIg"
-        producto[7][52] = "samsungA71"
+        producto[7][52] = "samA71"
         producto[8][52] = "A71"
 
         producto[0][53] = "53"//id
-        producto[1][53] = "samsungA71 big"
+        producto[1][53] = "samA71 big"
         producto[2][53] = "A715/A71 big"//modelo
         producto[3][53] = "A71 big"
-        producto[4][53] = "samsungA715"
+        producto[4][53] = "samA715"
         producto[5][53] = "A715"
-        producto[6][53] = "samsungA71"
+        producto[6][53] = "samA71"
         producto[7][53] = "a71"
 
         producto[0][54] = "54"//id
-        producto[1][54] = "samsungA71 SMALL"
+        producto[1][54] = "samA71 SMALL"
         producto[2][54] = "A715/A71 SMALL"//modelo
         producto[3][54] = "A71 SMALL"
-        producto[4][54] = "samsungA715"
+        producto[4][54] = "samA715"
         producto[5][54] = "A715"
-        producto[6][54] = "samsungA71"
+        producto[6][54] = "samA71"
         producto[7][54] = "a71"
 
         producto[0][55] = "55"//id
-        producto[1][55] = "samsungA71 SMALL"
+        producto[1][55] = "samA71 SMALL"
         producto[2][55] = "A715/A71 SMALL W/F"//modelo
         producto[3][55] = "A71 SMALL"
-        producto[4][55] = "samsungA715"
+        producto[4][55] = "samA715"
         producto[5][55] = "A715"
-        producto[6][55] = "samsungA71"
+        producto[6][55] = "samA71"
         producto[7][55] = "a71"
 
         producto[0][56] = "56"//id
-        producto[1][56] = "samsungA725"
+        producto[1][56] = "samA725"
         producto[2][56] = "A72/A725  4G W/F"//modelo
         producto[3][56] = "A725"
-        producto[4][56] = "samsungA72"
+        producto[4][56] = "samA72"
         producto[5][56] = "A72"
 
 
         producto[0][57] = "57"//id
-        producto[1][57] = "samsungA72017"
-        producto[2][57] = "samsungA720"//modelo
+        producto[1][57] = "samA72017"
+        producto[2][57] = "samA720"//modelo
         producto[3][57] = "A72017"
         producto[4][57] = "A720"
-        producto[5][57] = "samsungA7"
+        producto[5][57] = "samA7"
         producto[6][57] = "a7"
 
         producto[0][58] = "58"//id
-        producto[1][58] = "samsungA8 plus"
-        producto[2][58] = "samsungA730"//modelo
+        producto[1][58] = "samA8 plus"
+        producto[2][58] = "samA730"//modelo
         producto[3][58] = "a8plus"
         producto[4][58] = "a730"
         producto[5][58] = "a8+"
-        producto[6][58] = "samsungA8+"
+        producto[6][58] = "samA8+"
 
         producto[0][59] = "59"//id
-        producto[1][59] = "samsungA72018"
-        producto[2][59] = "samsungA750"//modelo
+        producto[1][59] = "samA72018"
+        producto[2][59] = "samA750"//modelo
         producto[3][59] = "a72018"
         producto[4][59] = "A750"
         producto[5][59] = "a7"
-        producto[6][59] = "samsungA7"
+        producto[6][59] = "samA7"
 
 
         producto[0][60] = "60"//id
-        producto[1][60] = "samsungA80"
+        producto[1][60] = "samA80"
         producto[2][60] = "A80"//modelo
 
         producto[0][61] = "61"//id
-        producto[1][61] = "samsungA80 W/F"
+        producto[1][61] = "samA80 W/F"
         producto[2][61] = "A80 W/F"//modelo
-        producto[3][61] = "samsungA80"
+        producto[3][61] = "samA80"
         producto[4][61] = "A80"
 
         producto[0][62] = "62"//id
-        producto[1][62] = "samsungA920"
+        producto[1][62] = "samA920"
         producto[2][62] = "A920"//modelo
-        producto[3][62] = "samsung2018"
+        producto[3][62] = "sam2018"
         producto[4][62] = "A92018"
         producto[5][62] = "a9"
 
         producto[0][63] = "63"//id
-        producto[1][63] = "samsungA90"
+        producto[1][63] = "samA90"
         producto[2][63] = "A90"//modelo
 
         producto[0][64] = "64"//id
-        producto[1][64] = "samsungA90 W/F"
+        producto[1][64] = "samA90 W/F"
         producto[2][64] = "A90 W/F"//modelo
-        producto[3][64] = "samsungA90"
+        producto[3][64] = "samA90"
         producto[4][64] = "A90"
 
         producto[0][65] = "65"//id
-        producto[1][65] = "samsungJ260"
+        producto[1][65] = "samJ260"
         producto[2][65] = "J260"//modelo
-        producto[3][65] = "samsungJ2 core"
+        producto[3][65] = "samJ2 core"
         producto[4][65] = "J2 core"
         producto[5][65] = "J2"//incell
-        producto[6][65] = "samsungJ2"//cof
+        producto[6][65] = "samJ2"//cof
 
         producto[0][66] = "66"//id
-        producto[1][66] = "samsungJ3"
+        producto[1][66] = "samJ3"
         producto[2][66] = "J3"//modeloell
 
         producto[0][67] = "67"//id
-        producto[1][67] = "samsungJ327"
+        producto[1][67] = "samJ327"
         producto[2][67] = "J327"//modelo
-        producto[3][67] = "samsungJ3 Pro"
+        producto[3][67] = "samJ3 Pro"
         producto[4][67] = "J3 Pro"
         producto[5][67] = "j3"//incell
-        producto[6][67] = "samsungj3"//cof
+        producto[6][67] = "samj3"//cof
 
         producto[0][68] = "68"//id
-        producto[1][68] = "samsungJ4"
+        producto[1][68] = "samJ4"
         producto[2][68] = "J4"//modelol
 
         producto[0][69] = "69"//id
-        producto[1][69] = "samsungJ4 plus"
+        producto[1][69] = "samJ4 plus"
         producto[2][69] = "J4 plus"//modelo
-        producto[3][69] = "samsungJ6 plus"
+        producto[3][69] = "samJ6 plus"
         producto[4][69] = "J6 plus"
-        producto[5][69] = "samsungJ4"//incell
-        producto[6][69] = "samsungJ6"//cof
+        producto[5][69] = "samJ4"//incell
+        producto[6][69] = "samJ6"//cof
         producto[7][69] = "j6"
         producto[8][69] = "j4"
 
         producto[0][70] = "70"//id
-        producto[1][70] = "samsungJ5"
+        producto[1][70] = "samJ5"
         producto[2][70] = "J5"//modelo
 
         producto[0][71] = "71"//id
-        producto[1][71] = "samsungJ5 PRIME"
+        producto[1][71] = "samJ5 PRIME"
         producto[2][71] = "J5 PRIME"//modelo
-        producto[3][71] = "samsungJ5"
+        producto[3][71] = "samJ5"
         producto[4][71] = "J5 "
 
         producto[0][72] = "72"//id
-        producto[1][72] = "samsungJ510"
+        producto[1][72] = "samJ510"
         producto[2][72] = "J510"//modelo
-        producto[3][72] = "samsungJ52016"
+        producto[3][72] = "samJ52016"
         producto[4][72] = "J52016"
         producto[5][72] = "J5"
-        producto[6][72] = "samsungJ5"
+        producto[6][72] = "samJ5"
 
         producto[0][73] = "73"//id
-        producto[1][73] = "samsungJ530"
+        producto[1][73] = "samJ530"
         producto[2][73] = "J530"//modelo
-        producto[3][73] = "samsungJ5pro"
+        producto[3][73] = "samJ5pro"
         producto[4][73] = "J5pro"
-        producto[5][73] = "samsungJ5"
+        producto[5][73] = "samJ5"
 
         producto[0][74] = "74"//id
-        producto[1][74] = "samsungJ6"
+        producto[1][74] = "samJ6"
         producto[2][74] = "J6"//modelo
 
         producto[0][75] = "75"//id
-        producto[1][75] = "samsungJ7"
+        producto[1][75] = "samJ7"
         producto[2][75] = "J7"//modelo
 
         producto[0][76] = "76"//id
-        producto[1][76] = "samsungJ7PRIME"
+        producto[1][76] = "samJ7PRIME"
         producto[2][76] = "J7PRIME"//modelo
-        producto[3][76] = "samsungJ7"
+        producto[3][76] = "samJ7"
         producto[4][76] = "J7"
 
         producto[0][77] = "77"//id
-        producto[1][77] = "samsungJ701"
+        producto[1][77] = "samJ701"
         producto[2][77] = "J701"//modelo
-        producto[3][77] = "samsungJ7 neo"
+        producto[3][77] = "samJ7 neo"
         producto[4][77] = "J7 neo"
-        producto[5][77] = "samsungJ7"
+        producto[5][77] = "samJ7"
 
         producto[0][78] = "78"//id
-        producto[1][78] = "samsungJ710"
+        producto[1][78] = "samJ710"
         producto[2][78] = "J710"//modelo
         producto[3][78] = "j7"
-        producto[4][78] = "samsungj7"
+        producto[4][78] = "samj7"
 
         producto[0][79] = "79"//id
-        producto[1][79] = "samsungJ720"
+        producto[1][79] = "samJ720"
         producto[2][79] = "J720 "//modelo
-        producto[3][79] = "samsungJ7 Duo"
+        producto[3][79] = "samJ7 Duo"
         producto[4][79] = "J7 Duo"
-        producto[5][79] = "samsungj7"
+        producto[5][79] = "samj7"
         producto[6][79] = "j7"
 
         producto[0][80] = "80"//id
-        producto[1][80] = "samsungJ727"
+        producto[1][80] = "samJ727"
         producto[2][80] = "J727"//modelo
-        producto[3][80] = "samsungj7v"
+        producto[3][80] = "samj7v"
         producto[4][80] = "J7V"
         producto[5][80] = "J7"
-        producto[6][80] = "samsungj7"
+        producto[6][80] = "samj7"
 
         producto[0][81] = "81"//id
-        producto[1][81] = "samsungJ730"
+        producto[1][81] = "samJ730"
         producto[2][81] = "J730"//modelo
-        producto[3][81] = "samsungJ7 pro"
+        producto[3][81] = "samJ7 pro"
         producto[4][81] = "J7 pro"
-        producto[5][81] = "samsungj7"
+        producto[5][81] = "samj7"
         producto[6][81] = "j7"
 
         producto[0][82] = "82"//id
-        producto[1][82] = "samsungJ8"
+        producto[1][82] = "samJ8"
         producto[2][82] = "J8"//modelo
 
         producto[0][83] = "83"//id
-        producto[1][83] = "samsungM01"
+        producto[1][83] = "samM01"
         producto[2][83] = "M01"//modelo
 
         producto[0][84] = "84"//id
-        producto[1][84] = "samsungM10" //marca
+        producto[1][84] = "samM10" //marca
         producto[2][84] = "M10"//modelo
 
         producto[0][85] = "85"//id
-        producto[1][85] = "samsungM12" //marca
+        producto[1][85] = "samM12" //marca
         producto[2][85] = "M12 "//modelo
-        producto[3][85] = "samsungM127" //original
+        producto[3][85] = "samM127" //original
         producto[4][85] = "M127" //oled
 
         producto[0][86] = "86"//id
-        producto[1][86] = "samsungM20" //marca
+        producto[1][86] = "samM20" //marca
         producto[2][86] = "M20"//modelo
 
         producto[0][87] = "87"//id
-        producto[1][87] = "samsungM21" //marca
+        producto[1][87] = "samM21" //marca
         producto[2][87] = "M21"//modelo
 
         producto[0][88] = "88"//id
-        producto[1][88] = "samsungM30" //marca
+        producto[1][88] = "samM30" //marca
         producto[2][88] = "M30"//modelo
-        producto[3][88] = "samsungM31" //original
+        producto[3][88] = "samM31" //original
         producto[4][88] = "M31" //oled
-        producto[5][88] = "samsungM30S" //incell
+        producto[5][88] = "samM30S" //incell
         producto[6][88] = "M30S" // cof
 
         producto[0][89] = "89"//id
-        producto[1][89] = "samsungNOTE 10 plus W/F" //marca
+        producto[1][89] = "samNOTE 10 plus W/F" //marca
         producto[2][89] = "NOTE 10 plus W/F"//modelo
-        producto[3][89] = "samsungNOTE 10 plus" //original
+        producto[3][89] = "samNOTE 10 plus" //original
         producto[4][89] = "NOTE 10 plus" //oledll
         producto[5][89] = "NOTE 10+" //oledll
         producto[6][89] = "NOTE 10" //oledll
 
         producto[0][294] = "294"//id
-        producto[1][294] = "samsungNOTE 10 W/F small" //marca
+        producto[1][294] = "samNOTE 10 W/F small" //marca
         producto[2][294] = "NOTE 10 W/F small"//modelo
-        producto[3][294] = "samsungNOTE 10 small" //original
+        producto[3][294] = "samNOTE 10 small" //original
         producto[4][294] = "NOTE 10 small" //oledll
         producto[5][294] = "NOTE 10" //oledll
-        producto[6][294] = "samsungNOTE 10" //oledll
+        producto[6][294] = "samNOTE 10" //oledll
 
         producto[0][90] = "90"//id
-        producto[1][90] = "samsungNOTE 10 W/F" //marca
+        producto[1][90] = "samNOTE 10 W/F" //marca
         producto[2][90] = "NOTE 10 W/F"//modelo
-        producto[3][90] = "samsungNOTE 10 " //original
+        producto[3][90] = "samNOTE 10 " //original
         producto[4][90] = "NOTE 10" //oled
         producto[5][90] = "10" //incell
         
         producto[0][91] = "91"//id
-        producto[1][91] = "samsungNOTE 20 U W/F" //marca
+        producto[1][91] = "samNOTE 20 U W/F" //marca
         producto[2][91] = "NOTE 20 U W/F"//modelo
-        producto[3][91] = "samsungNOTE 20 U" //original
+        producto[3][91] = "samNOTE 20 U" //original
         producto[4][91] = "NOTE 20 U " //oled
-        producto[5][91] = "samsungNOTE 20 Ultra" //original
+        producto[5][91] = "samNOTE 20 Ultra" //original
         producto[6][91] = "NOTE 20 Ultra" //oled
 
         producto[0][92] = "92"//id
-        producto[1][92] = "samsungNOTE 20 W/F" //marca
+        producto[1][92] = "samNOTE 20 W/F" //marca
         producto[2][92] = "NOTE 20 W/F"//modelo
-        producto[3][92] = "samsungNOTE 20" //original
+        producto[3][92] = "samNOTE 20" //original
         producto[4][92] = "NOTE 20" //oled
 
         producto[0][295] = "295"//id
-        producto[1][295] = "samsungNOTE 20 small W/F" //marca
+        producto[1][295] = "samNOTE 20 small W/F" //marca
         producto[2][295] = "NOTE 20 small W/F"//modelo
-        producto[3][295] = "samsungNOTE 20 small" //original
+        producto[3][295] = "samNOTE 20 small" //original
         producto[4][295] = "NOTE 20 small " //oled
-        producto[5][295] = "samsungNOTE 20" //original
+        producto[5][295] = "samNOTE 20" //original
         producto[6][295] = "NOTE 20" //oled
 
         producto[0][93] = "93"//id
-        producto[1][93] = "samsungNOTE 8 W/F" //marca
+        producto[1][93] = "samNOTE 8 W/F" //marca
         producto[2][93] = "NOTE 8 W/F"//modelo
-        producto[3][93] = "samsungNOTE 8" //original
+        producto[3][93] = "samNOTE 8" //original
         producto[4][93] = "NOTE 8" //oled
 
         producto[0][94] = "94"//id
-        producto[1][94] = "samsungNOTE 9 W/F" //marca
+        producto[1][94] = "samNOTE 9 W/F" //marca
         producto[2][94] = "NOTE 9 W/F"//modelo
         producto[3][94] = "NOTE 9" //original
-        producto[4][94] = "samsungNOTE 9" //oled
+        producto[4][94] = "samNOTE 9" //oled
 
         producto[0][95] = "95"//id
-        producto[1][95] = "samsungS10  W/F" //marca
+        producto[1][95] = "samS10  W/F" //marca
         producto[2][95] = "S10  W/F"//modelo
-        producto[3][95] = "samsungS10" //original
+        producto[3][95] = "samS10" //original
         producto[4][95] = "S10" //oled
 
         producto[0][296] = "296"//id
-        producto[1][296] = "samsungS10 lite" //marca
+        producto[1][296] = "samS10 lite" //marca
         producto[2][296] = "S10 lite"//modelo
-        producto[3][296] = "samsungS10  " //original
+        producto[3][296] = "samS10  " //original
         producto[4][296] = "S10" //oled
 
         producto[0][96] = "96"//id
-        producto[1][96] = "samsungS10 5G W/F" //marca
+        producto[1][96] = "samS10 5G W/F" //marca
         producto[2][96] = "S10 5G W/F"//modelo
-        producto[3][96] = "samsungS10 5G " //original
+        producto[3][96] = "samS10 5G " //original
         producto[4][96] = "S10 5G" //oled
-        producto[5][96] = "samsungS10" //incell
+        producto[5][96] = "samS10" //incell
         producto[6][96] = "S10" // cof
 
         producto[0][97] = "97"//id
-        producto[1][97] = "samsungS10 E W/F" //marca
+        producto[1][97] = "samS10 E W/F" //marca
         producto[2][97] = "S10 E W/F"//modelo
-        producto[3][97] = "samsungS10 E " //original
+        producto[3][97] = "samS10 E " //original
         producto[4][97] = "S10 E" //oled
-        producto[5][97] = "samsungS10 " //incell
+        producto[5][97] = "samS10 " //incell
         producto[6][97] = "S10" // cof
 
         producto[0][98] = "98"//id
-        producto[1][98] = "samsungS10  PLUS W/F" //marca
+        producto[1][98] = "samS10  PLUS W/F" //marca
         producto[2][98] = "S10  PLUS W/F"//modelo
-        producto[3][98] = "samsungS10  PLUS" //original
+        producto[3][98] = "samS10  PLUS" //original
         producto[4][98] = "S10  PLUS" //oled
-        producto[5][98] = "samsungS10" //incell
+        producto[5][98] = "samS10" //incell
         producto[6][98] = "S10" // cof
-        producto[7][98] = "samsungS10+" //incell
+        producto[7][98] = "samS10+" //incell
         producto[8][98] = "S10+" // cof
 
         producto[0][99] = "99"//id
-        producto[1][99] = "samsungS20  W/F" //marca
+        producto[1][99] = "samS20  W/F" //marca
         producto[2][99] = "S20  W/F"//modelo
-        producto[3][99] = "samsungS20 " //original
+        producto[3][99] = "samS20 " //original
         producto[4][99] = "S20 " //oled
 
         producto[0][100] = "100"//id
-        producto[1][100] = "samsungS20 FE W/F" //marca
+        producto[1][100] = "samS20 FE W/F" //marca
         producto[2][100] = "S20 FE W/F"//modelo
-        producto[3][100] = "samsungS20 FE " //original
+        producto[3][100] = "samS20 FE " //original
         producto[4][100] = "S20 FE " //oled
         producto[5][100] = "S20" //incell
 
         producto[0][101] = "101"//id
-        producto[1][101] = "samsungS20 PLUS W/F" //marca
+        producto[1][101] = "samS20 PLUS W/F" //marca
         producto[2][101] = "S20 PLUS W/F"//modelo
-        producto[3][101] = "samsungS20 PLUS" //original
+        producto[3][101] = "samS20 PLUS" //original
         producto[4][101] = "S20 PLUS" //oled
         producto[5][101] = "S20" //incell
-        producto[6][101] = "samsungS20+" //oled
+        producto[6][101] = "samS20+" //oled
         producto[7][101] = "S20+" //incell
 
         producto[0][102] = "102"//id
-        producto[1][102] = "samsungS20 U W/F" //marca
+        producto[1][102] = "samS20 U W/F" //marca
         producto[2][102] = "S20 U W/F"//modelo
-        producto[3][102] = "samsungS20 U" //original
+        producto[3][102] = "samS20 U" //original
         producto[4][102] = "S20 U " //oled
         producto[5][102] = "S20" //incell
-        producto[6][102] = "samsungS20 Ultra" //original
+        producto[6][102] = "samS20 Ultra" //original
         producto[7][102] = "S20 Ultra" //oled
 
         producto[0][103] = "103"//id
-        producto[1][103] = "samsungS21 PLUS W/F" //marca
+        producto[1][103] = "samS21 PLUS W/F" //marca
         producto[2][103] = "S21 PLUS W/F"//modelo
-        producto[3][103] = "samsungS21 PLUS " //original
+        producto[3][103] = "samS21 PLUS " //original
         producto[4][103] = "S21 PLUS" //oled
         producto[5][103] = "S21" //incell
-        producto[6][103] = "samsungS21+" //original
+        producto[6][103] = "samS21+" //original
         producto[7][103] = "S21+" //oled
 
         producto[0][104] = "104"//id
-        producto[1][104] = "samsungS21 U W/F" //marca
+        producto[1][104] = "samS21 U W/F" //marca
         producto[2][104] = "S21 U W/F"//modelo
-        producto[3][104] = "samsungS21 U" //original
+        producto[3][104] = "samS21 U" //original
         producto[4][104] = "S21 U" //oled
         producto[5][104] = "S21" //incell
-        producto[6][104] = "samsungS21 Ultra" //original
+        producto[6][104] = "samS21 Ultra" //original
         producto[7][104] = "S21 Ultra" //oled
 
         producto[0][105] = "105"//id
-        producto[1][105] = "samsungS21 W/F" //marca
+        producto[1][105] = "samS21 W/F" //marca
         producto[2][105] = "S21 W/F"//modelo
-        producto[3][105] = "samsungS21 " //original
+        producto[3][105] = "samS21 " //original
         producto[4][105] = "S21 " //oled
 
         producto[0][297] = "297"//id
-        producto[1][297] = "samsungS6" //marca
+        producto[1][297] = "samS6" //marca
         producto[2][297] = "S6"//mode
 
         producto[0][298] = "298"//id
-        producto[1][298] = "samsungS6 EDGE W/F" //marca
+        producto[1][298] = "samS6 EDGE W/F" //marca
         producto[2][298] = "S6 EDGE W/F"//mode
-        producto[3][298] = "samsungS6 EDGE" //original
+        producto[3][298] = "samS6 EDGE" //original
         producto[4][298] = "S6 EDGE" //original
-        producto[5][298] = "samsungS6" //original
+        producto[5][298] = "samS6" //original
         producto[6][298] = "S6" //original
 
         producto[0][299] = "299"//id
-        producto[1][299] = "samsunga7" //marca
+        producto[1][299] = "sams7" //marca
         producto[2][299] = "S7"//mode
 
         producto[0][106] = "106"//id
-        producto[1][106] = "samsungS7 EDGE W/F" //marca
+        producto[1][106] = "samS7 EDGE W/F" //marca
         producto[2][106] = "S7 EDGE W/F"//modelo
-        producto[3][106] = "samsungS7 EDGE" //original
+        producto[3][106] = "samS7 EDGE" //original
         producto[4][106] = "S7 EDGE" //oled
-        producto[5][106] = "S7" //incell
+        producto[6][106] = "samS7" //incell
+        producto[7][106] = "S7" //incell
 
         producto[0][107] = "107"//id
-        producto[1][107] = "samsungS8 W/F" //marca
+        producto[1][107] = "samS8 W/F" //marca
         producto[2][107] = "S8 W/F"//modelo
-        producto[3][107] = "samsungS8" //original
+        producto[3][107] = "samS8" //original
         producto[4][107] = "s8" //oled
 
         producto[0][300] = "300"//id
-        producto[1][300] = "samsungS8 small" //marca
+        producto[1][300] = "samS8 small" //marca
         producto[2][300] = "S8 small"//modelo
-        producto[3][300] = "samsungS8" //original
+        producto[3][300] = "samS8" //original
         producto[4][300] = "s8" //oled
 
         producto[0][108] = "108"//id
-        producto[1][108] = "samsungS8 PLUS  W/F" //marca
+        producto[1][108] = "samS8 PLUS  W/F" //marca
         producto[2][108] = "S8 PLUS  W/F"//modelo
         producto[3][108] = "samsungS8 PLUS" //original
         producto[4][108] = "S8 PLUS " //oled
-        producto[5][108] = "samsungS8+" //incell
+        producto[5][108] = "samS8+" //incell
         producto[6][108] = "s8+" // cof
 
         producto[0][109] = "109"//id
-        producto[1][109] = "samsungS9 W/F" //marca
+        producto[1][109] = "samS9 W/F" //marca
         producto[2][109] = "S9 W/F"//modelo
-        producto[3][109] = "samsungS9" //original
+        producto[3][109] = "samS9" //original
         producto[4][109] = "S9" //oled
 
         producto[0][110] = "110"//id
-        producto[1][110] = "samsungS9 plus  W/F" //marca
+        producto[1][110] = "samS9 plus  W/F" //marca
         producto[2][110] = "S9 plus  W/F"//modelo
-        producto[3][110] = "samsungS9 plus" //original
+        producto[3][110] = "samS9 plus" //original
         producto[4][110] = "S9 plus" //oled
-        producto[5][110] = "samsungS9+" //incell
+        producto[5][110] = "samS9+" //incell
         producto[6][110] = "s9+" // cof
         producto[7][110] = "s9" // cof
 
         producto[0][301] = "301"//id
-        producto[1][301] = "samsungS9 plus  small" //marca
+        producto[1][301] = "samS9 plus  small" //marca
         producto[2][301] = "S9 plus  small"//modelo
-        producto[3][301] = "samsungS9" //original
+        producto[3][301] = "samS9" //original
         producto[4][301] = "S9" //oled
-        producto[5][301] = "samsungS9+" //incell
+        producto[5][301] = "samS9+" //incell
         producto[6][301] = "s9+" // cof
 
         producto[0][111] = "111"//id
-        producto[1][111] = "samsungS5" //marca
+        producto[1][111] = "samS5" //marca
         producto[2][111] = "S5"//modelo
 
 
@@ -996,12 +997,12 @@ class listaNombres(var celularIngresado: String){
 
         producto[0][124] = "124"//id
         producto[1][124] = "XS"
-        producto[2][124] = "Xsamsungax"//modelo
-        producto[3][124] = "IPHONEXsamsungAX"
+        producto[2][124] = "Xsamax"//modelo
+        producto[3][124] = "IPHONEXsamAX"
         producto[4][124] = "IPHONEXS"
         producto[5][124] = "MAX"
         producto[6][124] = "XMAX"
-        producto[7][124] = "IPHXsamsungAX"
+        producto[7][124] = "IPHXsamAX"
 
         producto[0][125] = "125"//id
         producto[1][125] = "IPHONEXR"
@@ -1179,7 +1180,7 @@ class listaNombres(var celularIngresado: String){
         producto[3][141] = "8XHONOR"
         producto[4][141] = "8"
         producto[5][141] = "X"
-        producto[6][141] = "HUAWEIHONOR8X"
+        producto[6][141] = "HWHONOR8X"
         producto[7][141] = "8XHONOR"
 
         producto[0][142] = "142"//id
@@ -1218,7 +1219,6 @@ class listaNombres(var celularIngresado: String){
         producto[0][145] = "145"//id
         producto[1][145] = "GEELITE"
         producto[2][145] = "GEELITEPLUS"//modelo
-        producto[3][145] = "HUAWEIGEELITEPLUS"
         producto[4][145] = "HWGEELITEPLUS"
         producto[5][145] = "HWGEELITE"//incell
         producto[6][145] = "GE"//cof
@@ -1228,7 +1228,6 @@ class listaNombres(var celularIngresado: String){
         producto[0][146] = "146"//id
         producto[1][146] = "MATE"
         producto[2][146] = "MATE8"//modelo
-        producto[3][146] = "HUAWEIMATE8"
         producto[4][146] = "HWMATE8"
         producto[5][146] = "HWMATE8"
         producto[6][146] = "MATE8HW"
@@ -1236,7 +1235,6 @@ class listaNombres(var celularIngresado: String){
         producto[0][147] = "147"//id
         producto[1][147] = "MATE"
         producto[2][147] = "MATE10"//modelo
-        producto[3][147] = "HUAWEIMATE10"
         producto[4][147] = "HWMATE10"
         producto[5][147] = "HWMATE"//incell
         producto[6][147] = "HW10"//cof
@@ -1250,14 +1248,11 @@ class listaNombres(var celularIngresado: String){
         producto[4][148] = "MATE20"
         producto[5][148] = "HWMATE20LITE"//incell
         producto[6][148] = "HWNOVA3"//cof
-        producto[7][148] = "HUAWEIMATE20"
-        producto[8][148] = "HUAWEINOVA3"
 
         producto[0][149] = "149"//id
         producto[1][149] = "MATE20"
         producto[2][149] = "MATE20W/F"//modelo
         producto[3][149] = "HWMATE20"
-        producto[4][149] = "HAUWEIMATE20"
         producto[5][149] = "MATE"
         producto[6][149] = "20"
         producto[7][149] = "W/F"
@@ -1267,118 +1262,95 @@ class listaNombres(var celularIngresado: String){
         producto[2][150] = "NOVA5T"//modelo
         producto[3][150] = "NOVA5"
         producto[4][150] = "HWNOVA5T"
-        producto[5][150] = "HUAWEINOVA5T"
         producto[6][150] = "NOVA"
         producto[7][150] = "NOVA5THW"
 
         producto[0][151] = "151"//id
-        producto[1][151] = "PSamsungART"
-        producto[2][151] = "PSamsungART2019"//modelo
-        producto[3][151] = "HUAWEIPSamsungART"
-        producto[4][151] = "HWPSamsungART"
-        producto[5][151] = "HAUWEIPSamsungART2019"//incell
-        producto[6][151] = "HWPSamsungART2019"
+        producto[1][151] = "PsamART"
+        producto[2][151] = "PsamART2019"//modelo
+        producto[4][151] = "HWPsamART"
+        producto[6][151] = "HWPsamART2019"
         producto[7][151] = "2019"
-        producto[8][151] = "SamsungART"
+        producto[8][151] = "samART"
 
         producto[0][152] = "152"//id
         producto[1][152] = "P10"
         producto[2][152] = "P10LITE"//modelo
-        producto[3][152] = "HUAWEIP10LIE"
         producto[4][152] = "HWP10LITE"
         producto[5][152] = "LITE"
         producto[6][152] = "10"//cof
         producto[7][152] = "HWP10"
-        producto[8][152] = "HUAWEIP10"
 
         producto[0][153] = "153"//id
         producto[1][153] = "P10"
         producto[2][153] = "P10SELFIE"//modelo
         producto[3][153] = "HWP10SELFIE"
-        producto[4][153] = "HUAWEIP10SELFIE"
         producto[5][153] = "SELFIE"//incell
         producto[6][153] = "HWP10"//cof
-        producto[7][153] = "HAUWEIP10"
         producto[8][153] = "P10SELFIEHW"
 
         producto[0][154] = "154"//id
         producto[1][154] = "P20"
         producto[2][154] = "P20LITE"//modelo
-        producto[3][154] = "HUWEIP20LITE"
         producto[4][154] = "HWP20LITE"
         producto[5][154] = "LITE"//incell
         producto[6][154] = "HWP20"//cof
-        producto[7][154] = "HAUWEIP20"
         producto[8][154] = "P20LITEHW"
 
         producto[0][155] = "155"//id
         producto[1][155] = "30"
         producto[2][155] = "P30"//modelo
-        producto[3][155] = "HUAWEIP30"
         producto[4][155] = "HWP30"
-        producto[5][155] = "HUAWEIP"//incell
         producto[6][155] = "HWP"//cof
         producto[7][155] = "HW30"
 
         producto[0][156] = "156"//id
         producto[1][156] = "P30"
         producto[2][156] = "P30LITE"//modelo
-        producto[3][156] = "HUWEIP30LITE"
         producto[4][156] = "HWP30LITE"
         producto[5][156] = "LITE"//incell
         producto[6][156] = "HWP30"//cof
-        producto[7][156] = "HAUWEIP30"
         producto[8][156] = "P30LITEHW"
 
         producto[0][157] = "157"//id
         producto[1][157] = "P30"
         producto[2][157] = "P30PRO"//modelo
-        producto[3][157] = "HUWEIP30PRO"
         producto[4][157] = "HWP30PRO"
         producto[5][157] = "PRO"//incell
         producto[6][157] = "HWP30"//cof
-        producto[7][157] = "HAUWEIP30"
         producto[8][157] = "P30PROHW"
 
         producto[0][158] = "158"//id
         producto[1][158] = "P40"
         producto[2][158] = "P40PRO"//modelo
-        producto[3][158] = "HUWEIP40PRO"
         producto[4][158] = "HWP40PRO"
         producto[5][158] = "PRO"//incell
         producto[6][158] = "HWP40"//cof
-        producto[7][158] = "HAUWEIP40"
         producto[8][158] = "P40PROHW"
 
         producto[0][159] = "159"//id
         producto[1][159] = "P9"
         producto[2][159] = "P9LITE"//modelo
-        producto[3][159] = "HUWEIP9LITE"
         producto[4][159] = "HWP9LITE"
         producto[5][159] = "LITE"//incell
         producto[6][159] = "HWP9"//cof
-        producto[7][159] = "HAUWEIP9"
         producto[8][159] = "P9LITEHW"
 
         producto[0][160] = "160"//id
         producto[1][160] = "P9"
         producto[2][160] = "P9LITE2017"//modelo
-        producto[3][160] = "HUAWEIP9LITE2017"
         producto[4][160] = "HWP9LITE2017"
         producto[5][160] = "LITE"
         producto[6][160] = "2017"
-        producto[7][160] = "HUAWEIP9LITE"
         producto[8][160] = "HWP9LITE"
 
         producto[0][161] = "161"//id
         producto[1][161] = "Y6"
         producto[2][161] = "Y62018"//modelo
-        producto[3][161] = "HUAWEIY6"
         producto[4][161] = "HWY6"
         producto[5][161] = "2018"//incell
         producto[6][161] = "Y"//cof
         producto[7][161] = "HWY"
-        producto[8][161] = "HAUWEIY"
 
         producto[0][162] = "162"//id
         producto[1][162] = "Y6S2019"
@@ -1386,18 +1358,14 @@ class listaNombres(var celularIngresado: String){
         producto[3][162] = "Y6"
         producto[4][162] = "Y6S"
         producto[5][162] = "HWY6S"//incell
-        producto[6][162] = "HUWEIY6S"//cof
         producto[7][162] = "HWY6"
-        producto[8][162] = "HAUWEIY6"
         producto[9][162] = "2019"
         producto[10][162] = "Y"
 
         producto[0][163] = "163"//id
         producto[1][163] = "Y6PRIME"
         producto[2][163] = "Y6PRIME2018"//modelo
-        producto[3][163] = "HUAWEIY6PRIME2018"
         producto[4][163] = "HWY6PRIME2018"
-        producto[5][163] = "HAUWEIY6PRIME"//incell
         producto[6][163] = "HWY6PRIME"//cof
         producto[7][163] = "Y6"
         producto[8][163] = "2018"
@@ -1406,57 +1374,44 @@ class listaNombres(var celularIngresado: String){
         producto[1][164] = "Y7"
         producto[2][164] = "Y72018"//modelo
         producto[3][164] = "HWY72018"
-        producto[4][164] = "HUAWEIWY72018"
         producto[5][164] = "HWY7"
-        producto[6][164] = "HAUWEIY7"
         producto[7][164] = "2018"
 
         producto[0][165] = "165"//id
         producto[1][165] = "Y72019"
         producto[2][165] = "Y7PRIME2019"//modelo
         producto[3][165] = "HWY72019"
-        producto[4][165] = "HAUWEIY72019"
         producto[5][165] = "HWY7"
-        producto[6][165] = "HUAWEIY7"
         producto[7][165] = "Y7"
         producto[8][165] = "2019"
         producto[9][165] = "HWY7PRIME"
-        producto[10][165] = "HAUWEIY7PRIME"
 
         producto[0][166] = "166"//id
         producto[1][166] = "Y9"
         producto[2][166] = "Y92018"//modelo
         producto[3][166] = "HWY92018"
-        producto[4][166] = "HUAWEIWY92018"
         producto[5][166] = "HWY9"
-        producto[6][166] = "HAUWEIY9"
         producto[7][166] = "2018"
 
         producto[0][167] = "167"//id
         producto[1][167] = "Y9"
         producto[2][167] = "Y92019"//modelo
         producto[3][167] = "HWY92019"
-        producto[4][167] = "HUAWEIWY92019"
         producto[5][167] = "HWY9"
-        producto[6][167] = "HAUWEIY9"
         producto[7][167] = "2019"
 
         producto[0][168] = "168"//id
         producto[1][168] = "Y9"
         producto[2][168] = "Y9PRIME"//modelo
         producto[3][168] = "HWY9PRIME"
-        producto[4][168] = "HUAWEIWY9PRIME"
         producto[5][168] = "HWY9"
-        producto[6][168] = "HUAWEIY9"
         producto[7][168] = "PRIME"
 
         producto[0][169] = "169"//id
         producto[1][169] = "Y9"
         producto[2][169] = "Y9S"//modelo
         producto[3][169] = "HWY9S"
-        producto[4][169] = "HUAWEIWY9S"
         producto[5][169] = "HWY9"
-        producto[6][169] = "HAUWEIY9"
 
 
 
@@ -1465,14 +1420,14 @@ class listaNombres(var celularIngresado: String){
 
         producto[0][170] = "170"//id
         producto[1][170] = "BLADEV20"
-        producto[2][170] = "BLADEV20SamsungART8010"//modelo
-        producto[3][170] = "ZTEBLADEV20SamsungART8010"
-        producto[4][170] = "BLADEV20SamsungART"
+        producto[2][170] = "BLADEV20samART8010"//modelo
+        producto[3][170] = "ZTEBLADEV20samART8010"
+        producto[4][170] = "BLADEV20samART"
         producto[5][170] = "BLADE"
         producto[6][170] = "BLADEV"
         producto[7][170] = "V20"
         producto[8][170] = "ZTEV20"
-        producto[9][170] = "V20samsungart"
+        producto[9][170] = "V20samart"
 
         producto[0][171] = "171"//id
         producto[1][171] = "A3"
@@ -2562,21 +2517,10 @@ class listaNombres(var celularIngresado: String){
 
 
 
-        //NUEVOS
-
-
-        //SAMSUNG
-
-
-
-
-
-
-
 
         for (i in 0 until 310) {
             for (j in 0 until 12) {
-                if(celularAhComparar.replace(" ","").replace("SM","SAMSUNG") == producto[j][i].toString().replace(" ","").uppercase()){
+                if(celularAhComparar.replace(" ","").replace("SM","SAM").replace("SAMSUNG","SAM").replace("HUAWEI","HW").replace("HUA","HW") == producto[j][i].toString().replace(" ","").uppercase()){
                     listaAuxiliar[aux] = producto[0][i].toString()
                     aux+= 1
                 }

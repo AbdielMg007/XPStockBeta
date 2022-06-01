@@ -41,7 +41,9 @@
         <entry key="app/src/main/res/layout/calidades.xml" value="0.3591485507246377" />
         <entry key="app/src/main/res/layout/targed_busqueda.xml" value="0.3591485507246377" />
         <entry key="app/src/main/res/layout/target.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/target_buscador.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/layout/target_busqueda.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/target_lista.xml" value="0.37604166666666666" />
       </map>
     </option>
   </component>

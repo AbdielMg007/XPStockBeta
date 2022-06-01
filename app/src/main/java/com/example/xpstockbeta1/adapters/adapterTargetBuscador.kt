@@ -77,7 +77,7 @@ class adapterTarget(private val activity: Activity, var datoMarca: String) : Rec
     }
 
     fun crearArregloPrecios(opcion: Int, marca: String): Array<Array<String?>> {
-        val preciosDb = Array(6) { arrayOfNulls<String>(310) }
+        val preciosDb = Array(7) { arrayOfNulls<String>(310) }
         var aux = 0
         if(opcion == 1) {
             for (i in 0..310) {
@@ -89,12 +89,14 @@ class adapterTarget(private val activity: Activity, var datoMarca: String) : Rec
                     val preciosCof = listadb((i).toString(), "cof")
                     val preciosCog = listadb((i).toString(), "cog")
                     val preciosTft = listadb((i).toString(), "tft")
+                    val preciosAAA = listadb((i).toString(), "AAA")
                     preciosDb[0][aux] = preciosOriginal()
                     preciosDb[1][aux] = preciosOled()
                     preciosDb[2][aux] = preciosIncell()
                     preciosDb[3][aux] = preciosCof()
                     preciosDb[4][aux] = preciosCog()
                     preciosDb[5][aux] = preciosTft()
+                    preciosDb[6][aux] = preciosAAA()
                     aux+=1
                 }
             }
@@ -109,18 +111,21 @@ class adapterTarget(private val activity: Activity, var datoMarca: String) : Rec
                 val preciosCof = listadb((precios2Db[i]).toString(), "cof")
                 val preciosCog = listadb((precios2Db[i]).toString(), "cog")
                 val preciosTft = listadb((precios2Db[i]).toString(), "tft")
+                val preciosAAA= listadb((precios2Db[i]).toString(), "AAA")
                 val preciosOriginalS: String = preciosOriginal()
                 val preciosOledS: String = preciosOled()
                 val preciosIncellS: String = preciosIncell()
                 val preciosCofS: String = preciosCof()
                 val preciosCogS: String = preciosCog()
                 val preciosTftS: String = preciosTft()
+                val preciosAAAS: String = preciosAAA()
                 preciosDb[0][i] = preciosOriginalS
                 preciosDb[1][i] = preciosOledS
                 preciosDb[2][i] = preciosIncellS
                 preciosDb[3][i] = preciosCofS
                 preciosDb[4][i] = preciosCogS
                 preciosDb[5][i] = preciosTftS
+                preciosDb[6][i] = preciosAAAS
             }
         }
         return preciosDb
@@ -253,9 +258,9 @@ fun llenarImages(opcion: Int, marca: String, tamano: Int):Array<Int?>{
 
     fun llenarPrecios(opcion: Int, valorRequerido: Int, arregloPreciosDb: Array<Array<String?>> ): Array<String?> {
 
-        val modeloDb = arrayOfNulls<String?>(6)
-        val preciosDb = arrayOfNulls<String?>(6)
-        val nombresDb= arrayOfNulls<String?>(6)
+        val modeloDb = arrayOfNulls<String?>(7)
+        val preciosDb = arrayOfNulls<String?>(7)
+        val nombresDb= arrayOfNulls<String?>(7)
         var aux = 0
         preciosDb[0] = arregloPreciosDb[0][valorRequerido]
         preciosDb[1] = arregloPreciosDb[1][valorRequerido]
@@ -263,13 +268,15 @@ fun llenarImages(opcion: Int, marca: String, tamano: Int):Array<Int?>{
         preciosDb[3] = arregloPreciosDb[3][valorRequerido]
         preciosDb[4] = arregloPreciosDb[4][valorRequerido]
         preciosDb[5] = arregloPreciosDb[5][valorRequerido]
+        preciosDb[6] = arregloPreciosDb[6][valorRequerido]
         nombresDb[0] = "Original\t\t\t\t\t" + arregloPreciosDb[0][valorRequerido]
         nombresDb[1] = "Oled\t\t\t\t\t\t\t\t" + arregloPreciosDb[1][valorRequerido]
         nombresDb[2] = "Incell\t\t\t\t\t\t\t" + arregloPreciosDb[2][valorRequerido]
         nombresDb[3] = "COF\t\t\t\t\t\t\t\t" + arregloPreciosDb[3][valorRequerido]
         nombresDb[4] = "COG\t\t\t\t\t\t\t\t" + arregloPreciosDb[4][valorRequerido]
         nombresDb[5] = "TFT\t\t\t\t\t\t\t\t" + arregloPreciosDb[5][valorRequerido]
-        for (i in 0..5) {
+        nombresDb[6] = "AAA\t\t\t\t\t\t\t\t" + arregloPreciosDb[6][valorRequerido]
+        for (i in 0..6) {
             if (preciosDb[i] != "0") {
                 modeloDb[aux] = nombresDb[i]
                 aux += 1

@@ -16,7 +16,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         var datoQueSeManda = "0"
         var auxDatoRequerido = 0
 
-        val producto = Array(9) { arrayOfNulls<String>(310) }
+        val producto = Array(11) { arrayOfNulls<String>(310) }
 
         for (i in 1 until 310) {
             producto[3][i] = "0"
@@ -25,6 +25,8 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
             producto[6][i] = "0"
             producto[7][i] = "0"
             producto[8][i] = "0"
+            producto[9][i] = "0"
+            producto[10][i] = "0"
         }
 
         producto[0][0] = "id"//id
@@ -36,6 +38,9 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[6][0] = "cof"
         producto[7][0] = "cog"
         producto[8][0] = "tft"
+        producto[9][0] = "AAA"
+        producto[10][0] = "disponibilidad"
+
 
         producto[0][1] = "1"//id
         producto[1][1] = "samsung"
@@ -1690,7 +1695,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
 
 
 
-        for (i in 0..8) {
+        for (i in 0..10) {
             if(dato == producto[i][0].toString()){
                 auxDatoRequerido = i
             }
