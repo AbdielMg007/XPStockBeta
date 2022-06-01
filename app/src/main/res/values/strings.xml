@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">XP Stock</string>
+    <string name="app_name">XP Stock Playstore</string>
     <string name="inventario">Inventario</string>
     <string name="listas">Lista de Precios</string>
     <string name="buscador">Buscador</string>
-    <string name="version">1.4</string>
+    <string name="version">1.1</string>
 </resources>
