@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">XP Stock Playstore</string>
+    <string name="app_name">XP Stock Odoo</string>
     <string name="inventario">Inventario</string>
     <string name="listas">Lista de Precios</string>
     <string name="buscador">Buscador</string>
-    <string name="version">1.1</string>
+    <string name="version">1.0.0</string>
 </resources>
