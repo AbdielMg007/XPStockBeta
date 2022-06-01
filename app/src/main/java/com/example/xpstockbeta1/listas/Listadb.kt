@@ -9,14 +9,14 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         return stock(idC, datoR)
     }
 
-    public fun stock(idC: String, datoR: String):String{
+    private fun stock(idC: String, datoR: String):String{
 
         val id = idC
         val dato = datoR
         var datoQueSeManda = "0"
         var auxDatoRequerido = 0
 
-        val producto = Array(9) { arrayOfNulls<String>(3100) }
+        val producto = Array(9) { arrayOfNulls<String>(310) }
 
         for (i in 1 until 310) {
             producto[3][i] = "0"
