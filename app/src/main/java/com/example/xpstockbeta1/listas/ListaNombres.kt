@@ -2149,6 +2149,7 @@ class listaNombres(var celularIngresado: String){
         producto[2][246] = "MI 8 LITE"//modelo
         producto[3][246] = "xiaomi MI 8" //original
         producto[4][246] = "LITE" //oled
+        producto[5][246] = "MI 8"
 
 
         producto[0][247] = "247"//id
@@ -2326,7 +2327,7 @@ class listaNombres(var celularIngresado: String){
         producto[3][268] = "mi REDMI 8 PRO" //original
         producto[4][268] = "xiaomiREDMI 8" //oled
         producto[5][268] = "mi REDMI 8" //incell
-        producto[6][268] = "redmi" // cof
+        producto[6][268] = "redmi 8" // cof
         producto[7][268] = "8" //cog
 
         producto[0][269] = "269"//id

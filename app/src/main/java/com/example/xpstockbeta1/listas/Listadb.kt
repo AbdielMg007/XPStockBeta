@@ -45,67 +45,67 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][1] = "1"//id
         producto[1][1] = "samsung"
         producto[2][1] = "A01 - big M"//modelo
-        producto[3][1] = "320"
+        producto[3][1] = "300"
 
         producto[0][2] = "2"//id
         producto[1][2] = "samsung"
         producto[2][2] = "A01 - small F"//modelo
-        producto[3][2] = "320"
+        producto[3][2] = "300"
 
         producto[0][3] = "3"//id
         producto[1][3] = "samsung"
         producto[2][3] = "A01 core"//modelo
-        producto[3][3] = "470"
+        producto[3][3] = "440"
 
         producto[0][4] = "4"//id
         producto[1][4] = "samsung"
         producto[2][4] = "A02S/A02core"//modelo
-        producto[3][4] = "470"
+        producto[3][4] = "450"
 
         producto[0][5] = "5"//id
         producto[1][5] = "samsung"
         producto[2][5] = "A03"//modelo
-        producto[3][5] = "500"
+        producto[3][5] = "350"
 
         producto[0][6] = "6"//id
         producto[1][6] = "samsung"
         producto[2][6] = "A03S"//modelo
-        producto[3][6] = "470"
+        producto[3][6] = "390"
 
         producto[0][7] = "7"//id
         producto[1][7] = "samsung"
         producto[2][7] = "A03 Core"//modelo
-        producto[3][7] = "500"
+        producto[3][7] = "350"
 
         producto[0][8] = "8"//id
         producto[1][8] = "samsung"
         producto[2][8] = "A10"//modelo
-        producto[3][8] = "400"
+        producto[3][8] = "320"
 
         producto[0][9] = "9"//id
         producto[1][9] = "samsung"
         producto[2][9] = "A10 W/F"//modelo
-        producto[3][9] = "430"
+        producto[3][9] = "380"
 
         producto[0][10] = "10"//id
         producto[1][10] = "samsung"
         producto[2][10] = "A10 E"//modelo
-        producto[3][10] = "440"
+        producto[3][10] = "380"
 
         producto[0][11] = "11"//id
         producto[1][11] = "samsung"
         producto[2][11] = "A10S"//modelo
-        producto[3][11] = "410"
+        producto[3][11] = "320"
 
         producto[0][12] = "12"//id
         producto[1][12] = "samsung"
         producto[2][12] = "A11"//modelo
-        producto[3][12] = "470"
+        producto[3][12] = "400"
 
         producto[0][13] = "13"//id
         producto[1][13] = "samsung"
         producto[2][13] = "A12"//modelo
-        producto[3][13] = "460"
+        producto[3][13] = "400"
 
         producto[0][290] = "290"//id
         producto[1][290] = "samsung" //marca
@@ -120,18 +120,18 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][14] = "14"//id
         producto[1][14] = "samsung"
         producto[2][14] = "A20"//modelo
-        producto[4][14] = "780"
-        producto[5][14] = "500"
+        producto[4][14] = "730"
+        producto[5][14] = "380"
 
         producto[0][15] = "15"//id
         producto[1][15] = "samsung"
         producto[2][15] = "A20 W/F"//modelo
-        producto[4][15] = "820"
+        producto[4][15] = "750"
 
         producto[0][16] = "16"//id
         producto[1][16] = "samsung"
         producto[2][16] = "A20S"//modelo
-        producto[3][16] = "470"
+        producto[3][16] = "400"
 
         producto[0][17] = "17"//id
         producto[1][17] = "samsung"
@@ -141,14 +141,14 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][18] = "18"//id
         producto[1][18] = "samsung"
         producto[2][18] = "A21S"//modelo
-        producto[3][18] = "510"
+        producto[3][18] = "420"
 
         producto[0][19] = "19"//id
         producto[1][19] = "samsung"
         producto[2][19] = "A22  4G W/F"//modelo
         producto[3][19] = "1600"
         producto[4][19] = "1520"    // oled
-        producto[5][19] = "580"
+        producto[5][19] = "510"
 
         producto[0][20] = "20"//id
         producto[1][20] = "samsung"
@@ -173,42 +173,42 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][23] = "23"//id
         producto[1][23] = "samsung"
         producto[2][23] = "A30"//modelo
-        producto[4][23] = "780"
-        producto[5][23] = "630"
+        producto[4][23] = "730"
+        producto[5][23] = "380"
 
         producto[0][24] = "24"//id
         producto[1][24] = "samsung"
         producto[2][24] = "A30 W/F"//modelo
-        producto[4][24] = "855"
+        producto[4][24] = "760"
 
         producto[0][25] = "25"//id
         producto[1][25] = "samsung"
         producto[2][25] = "A30S"//modelo
-        producto[4][25] = "780"
-        producto[5][25] = "450"
+        producto[4][25] = "730"
+        producto[5][25] = "410"
 
         producto[0][26] = "26"//id
         producto[1][26] = "samsung"
         producto[2][26] = "A30S W/F"//modelo
-        producto[4][26] = "855"
+        producto[4][26] = "760"
 
         producto[0][27] = "27"//id
         producto[1][27] = "samsung"
         producto[2][27] = "A315/A31"//modelo
-        producto[5][27] = "560"
+        producto[5][27] = "520"
 
         producto[0][28] = "28"//id
         producto[1][28] = "samsung"
         producto[2][28] = "A315/A31 W/F"//modelo
-        producto[4][28] = "890"
-        producto[5][28] = "565"
+        producto[4][28] = "830"
+        producto[5][28] = "595"
 
         producto[0][29] = "29"//id
         producto[1][29] = "samsung"
         producto[2][29] = "A32/A325  4G W/F BIG"//modelo
         producto[3][29] = "1600"
-        producto[4][29] = "1450"
-        producto[5][29] = "650"
+        producto[4][29] = "1370"
+        producto[5][29] = "630"
 
         producto[0][292] = "292"//id
         producto[1][292] = "samsung"
@@ -218,8 +218,8 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][30] = "30"//id
         producto[1][30] = "samsung"
         producto[2][30] = "A50"//modelo
-        producto[4][30] = "750"
-        producto[5][30] = "540"
+        producto[4][30] = "730"
+        producto[5][30] = "380"
 
         producto[0][31] = "31"//id
         producto[1][31] = "samsung"
@@ -229,8 +229,8 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][32] = "32"//id
         producto[1][32] = "samsung"
         producto[2][32] = "A50S"//modelo
-        producto[4][32] = "750"
-        producto[5][32] = "540"
+        producto[4][32] = "730"
+        producto[5][32] = "380"
 
         producto[0][33] = "33"//id
         producto[1][33] = "samsung"
@@ -240,57 +240,55 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][34] = "34"//id
         producto[1][34] = "samsung"
         producto[2][34] = "A510/A5-2016"//modelo
-        producto[4][34] = "740"
+        producto[4][34] = "700"
 
         producto[0][35] = "35"//id
         producto[1][35] = "samsung"
         producto[2][35] = "A515/A51 BIG"//modelo
         producto[4][35] = "820"
-        producto[5][35] = "580"
+        producto[5][35] = "500"
 
         producto[0][36] = "36"//id
         producto[1][36] = "samsung"
         producto[2][36] = "A515/A51 BIG W/F"//modelo
-        producto[4][36] = "1250"
+        producto[4][36] = "1180"
+        producto[5][36] = "580"
 
-        producto[0][37] = "37"//id
-        producto[1][37] = "samsung"
-        producto[2][37] = "A515/A51 W/F"//modelo
+        //37 disp
 
         producto[0][38] = "38"//id
         producto[1][38] = "samsung"
         producto[2][38] = "A515/A51 SMALL"//modelo
-        producto[4][38] = "825"
+        producto[4][38] = "800"
 
         producto[0][39] = "39"//id
         producto[1][39] = "samsung"
         producto[2][39] = "A515/A51 SMALL W/F"//modelo
-        producto[4][39] = "870"
+        producto[4][39] = "830"
 
         producto[0][40] = "40"//id
         producto[1][40] = "samsung"
-        producto[2][40] = "A52/A525  4G W/F"//modelo
-        producto[3][40] = "2000"
-        producto[4][40] = "1850"
-        producto[5][40] = "650"
+        producto[2][40] = "A52/A525 W/F SMALL"//modelo
+        producto[4][40] = "1150"
 
         producto[0][41] = "41"//id
         producto[1][41] = "samsung"
-        producto[2][41] = "A52/A525 5G W/F"//modelo
-        producto[3][41] = "2000"
-        producto[4][41] = "1850"
+        producto[2][41] = "A52/A525 W/F BIG"//modelo
+        producto[3][41] = "1950"
+        producto[4][41] = "1750"
+        producto[5][41] = "650"
 
         producto[0][42] = "42"//id
         producto[1][42] = "samsung"
         producto[2][42] = "A520/A5-2017 BIG"//modelo
-        producto[4][42] = "780"
-        producto[5][42] = "550"
+        producto[4][42] = "750"
+        producto[5][42] = "430"
 
         producto[0][43] = "43"//id
         producto[1][43] = "samsung"
         producto[2][43] = "A530/A5-2018"//modelo
-        producto[4][43] = "950"
-        producto[5][43] = "550"
+        producto[4][43] = "930"
+        producto[5][43] = "530"
 
         producto[0][44] = "44"//id
         producto[1][44] = "samsung"
@@ -301,7 +299,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][45] = "45"//id
         producto[1][45] = "samsung"
         producto[2][45] = "A70/A70S"//modelo
-        producto[5][45] = "600"
+        producto[5][45] = "550"
 
         producto[0][46] = "46"//id
         producto[1][46] = "samsung"
@@ -347,17 +345,17 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][54] = "54"//id
         producto[1][54] = "samsung"
         producto[2][54] = "A715/A71 SMALL"//modelo
-        producto[4][54] = "870"
+        producto[4][54] = "830"
 
         producto[0][55] = "55"//id
         producto[1][55] = "samsung"
         producto[2][55] = "A715/A71 SMALL W/F"//modelo
-        producto[4][55] = "910"
+        producto[4][55] = "890"
 
         producto[0][56] = "56"//id
         producto[1][56] = "samsung"
         producto[2][56] = "A72/A725  4G W/F"//modelo
-        producto[3][56] = "2000"
+        producto[3][56] = "1900"
         producto[4][56] = "1350"
         producto[5][56] = "1000"
 
@@ -383,7 +381,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[1][60] = "samsung"
         producto[2][60] = "A80"//modelo
         producto[4][60] = "1600"
-        producto[5][60] = "740"
+        producto[5][60] = "680"
 
         producto[0][61] = "61"//id
         producto[1][61] = "samsung"
@@ -431,7 +429,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][69] = "69"//id
         producto[1][69] = "samsung"
         producto[2][69] = "J4 plus/J6 plus"//modelo
-        producto[3][69] = "450"
+        producto[3][69] = "365"
 
         producto[0][70] = "70"//id
         producto[1][70] = "samsung"
@@ -442,7 +440,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][71] = "71"//id
         producto[1][71] = "samsung"
         producto[2][71] = "J5 PRIME"//modelo
-        producto[5][71] = "390"
+        producto[5][71] = "330"
 
         producto[0][72] = "72"//id
         producto[1][72] = "samsung"
@@ -504,8 +502,8 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][82] = "82"//id
         producto[1][82] = "samsung"
         producto[2][82] = "J8"//modelo
-        producto[4][82] = "820"
-        producto[5][82] = "470"
+        producto[4][82] = "760"
+        producto[5][82] = "400"
 
         producto[0][83] = "83"//id
         producto[1][83] = "samsung"
@@ -535,7 +533,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][88] = "88"//id
         producto[1][88] = "samsung" //marca
         producto[2][88] = "M30 / M30S / M31"//modelo
-        producto[5][88] = "570" //incell
+        producto[5][88] = "450" //incell
 
         producto[0][89] = "89"//id
         producto[1][89] = "samsung" //marca
@@ -759,19 +757,19 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][122] = "122"//id
         producto[1][122] = "apple"
         producto[2][122] = "X"//modelo
-        producto[4][122] = "980"
-        producto[5][122] = "750"
+        producto[4][122] = "920"
+        producto[5][122] = "720"
 
         producto[0][123] = "123"//id
         producto[1][123] = "apple"
         producto[2][123] = "XS"//modelo
-        producto[4][123] = "980"
-        producto[5][123] = "850"
+        producto[4][123] = "920"
+        producto[5][123] = "820"
 
         producto[0][124] = "124"//id
         producto[1][124] = "apple"
         producto[2][124] = "XS MAX"//modelo
-        producto[4][124] = "1700"
+        producto[4][124] = "1570"
         producto[5][124] = "1100"
 
         producto[0][125] = "125"//id
@@ -782,28 +780,27 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][126] = "126"//id
         producto[1][126] = "apple"
         producto[2][126] = "11"//modelo
-        producto[5][126] = "1110"
+        producto[5][126] = "950"
 
         producto[0][127] = "127"//id
         producto[1][127] = "apple"
         producto[2][127] = "11 PRO"//modelo
-        producto[4][127] = "1450"
-        producto[5][127] = "950"
+        producto[4][127] = "950"
 
         producto[0][128] = "128"//id
         producto[1][128] = "apple"
         producto[2][128] = "11 PRO MAX"//modelo
-        producto[4][128] = "2400"
+        producto[4][128] = "1700"
 
         producto[0][129] = "129"//id
         producto[1][129] = "apple"
         producto[2][129] = "12 / 12 PRO"//modelo
-        producto[4][129] = "3100"
+        producto[4][129] = "2000"
 
         producto[0][130] = "130"//id
         producto[1][130] = "apple"
         producto[2][130] = "12 PRO MAX"//modelo
-        producto[4][130] = "4500"
+        producto[4][130] = "3800"
 
 
 
@@ -834,18 +831,17 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][135] = "135"//id
         producto[1][135] = "lg"
         producto[2][135] = "K42"//modelo
-        producto[3][135] = "490"
-        producto[5][135] = "500"
+        producto[3][135] = "450"
 
         producto[0][136] = "136"//id
         producto[1][136] = "lg"
         producto[2][136] = "K40S"//modelo
-        producto[3][136] = "415"
+        producto[3][136] = "380"
 
         producto[0][137] = "137"//id
         producto[1][137] = "lg"
         producto[2][137] = "K51"//modelo
-        producto[5][137] = "510"
+        producto[5][137] = "440"
 
         producto[0][138] = "138"//id
         producto[1][138] = "lg"
@@ -857,7 +853,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][140] = "140"//id
         producto[1][140] = "lg"
         producto[2][140] = "K52"//modelo
-        producto[5][140] = "480"
+        producto[5][140] = "460"
 
 
 
@@ -868,7 +864,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][141] = "141"//id
         producto[1][141] = "honor"
         producto[2][141] = "HONOR 8X"//modelo
-        producto[5][141] = "650"
+        producto[5][141] = "590"
 
         producto[0][142] = "142"//id
         producto[1][142] = "honor"
@@ -883,7 +879,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][144] = "144"//id
         producto[1][144] = "honor"
         producto[2][144] = "HONOR 50 LITE"//modelo
-        producto[5][144] = "620"
+        producto[5][144] = "520"
 
 
 
@@ -894,12 +890,12 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][145] = "145"//id
         producto[1][145] = "huawei"
         producto[2][145] = "GE ELITE PLUS"//modelo
-        producto[5][145] = "310"//incell
+        producto[5][145] = "280"//incell
 
         producto[0][146] = "146"//id
         producto[1][146] = "huawei"
         producto[2][146] = "MATE 8"//modelo
-        producto[5][146] = "470"//incell
+        producto[5][146] = "450"//incell
 
         producto[0][147] = "147"//id
         producto[1][147] = "huawei"
@@ -909,7 +905,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][148] = "148"//id
         producto[1][148] = "huawei"
         producto[2][148] = "MATE 20 LITE / NOVA 3"//modelo
-        producto[3][148] = "460"
+        producto[3][148] = "410"
 
         producto[0][149] = "149"//id
         producto[1][149] = "huawei"
@@ -919,7 +915,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][150] = "150"//id
         producto[1][150] = "huawei"
         producto[2][150] = "NOVA 5 T"//modelo
-        producto[5][150] = "575"//incell
+        producto[5][150] = "535"//incell
 
         producto[0][151] = "151"//id
         producto[1][151] = "huawei"
@@ -934,7 +930,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][153] = "153"//id
         producto[1][153] = "huawei"
         producto[2][153] = "P10 SELFIE"//modelo
-        producto[5][153] = "500"//incell
+        producto[5][153] = "420"//incell
 
         producto[0][154] = "154"//id
         producto[1][154] = "huawei"
@@ -961,7 +957,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][158] = "158"//id
         producto[1][158] = "huawei"
         producto[2][158] = "P40 PRO"//modelo
-        producto[3][158] = "4400"
+        producto[3][158] = "4300"
 
         producto[0][159] = "159"//id
         producto[1][159] = "huawei"
@@ -1014,14 +1010,14 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][168] = "168"//id
         producto[1][168] = "huawei"
         producto[2][168] = "Y9 PRIME"//modelo
-        producto[6][168] = "700"//cof
-        producto[7][168] = "460"
+        producto[6][168] = "650"//cof
+        producto[7][168] = "430"
 
         producto[0][169] = "169"//id
         producto[1][169] = "huawei"
         producto[2][169] = "Y9S"//modelo
-        producto[6][169] = "700"//cof
-        producto[7][169] = "460"
+        producto[6][169] = "650"//cof
+        producto[7][169] = "430"
 
 
 
@@ -1032,27 +1028,27 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][170] = "170"//id
         producto[1][170] = "zte"
         producto[2][170] = "BLADE V20 SMART - 8010"//modelo
-        producto[3][170] = "650"
+        producto[3][170] = "620"
 
         producto[0][171] = "171"//id
         producto[1][171] = "zte"
         producto[2][171] = "A3 LITE"//modelo
-        producto[3][171] = "340"
+        producto[3][171] = "300"
 
         producto[0][172] = "172"//id
         producto[1][172] = "zte"
         producto[2][172] = "BLADE A51"//modelo
-        producto[3][172] = "570"
+        producto[3][172] = "520"
 
         producto[0][173] = "173"//id
         producto[1][173] = "zte"
         producto[2][173] = "BLADE A602 BLACK / GOLDEN"//modelo
-        producto[3][173] = "380"
+        producto[3][173] = "370"
 
         producto[0][174] = "174"//id
         producto[1][174] = "zte"
         producto[2][174] = "BLADE A7 2019"//modelo
-        producto[3][174] = "530"
+        producto[3][174] = "510"
 
         producto[0][175] = "175"//id
         producto[1][175] = "zte"
@@ -1062,7 +1058,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][176] = "176"//id
         producto[1][176] = "zte"
         producto[2][176] = "BLADE V10 VITA"//modelo
-        producto[3][176] = "450"
+        producto[3][176] = "610"
 
         producto[0][177] = "177"//id
         producto[1][177] = "zte"
@@ -1072,12 +1068,12 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][178] = "178"//id
         producto[1][178] = "zte"
         producto[2][178] = "BLADE L8"//modelo
-        producto[3][178] = "370"
+        producto[3][178] = "300"
 
         producto[0][179] = "179"//id
         producto[1][179] = "zte"
         producto[2][179] = "BLADE A7S 2020"//modelo
-        producto[3][179] = "600"
+        producto[3][179] = "580"
 
         producto[0][180] = "180"//id
         producto[1][180] = "zte"
@@ -1087,17 +1083,17 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][181] = "181"//id
         producto[1][181] = "zte"
         producto[2][181] = "BLADE V9 VITA - V0920"//modelo
-        producto[3][181] = "380"
+        producto[3][181] = "360"
 
         producto[0][182] = "182"//id
         producto[1][182] = "zte"
         producto[2][182] = "BLADE A5 2020"//modelo
-        producto[3][182] = "550"
+        producto[3][182] = "510"
 
         producto[0][183] = "183"//id
         producto[1][183] = "zte"
         producto[2][183] = "BLADE L210"//modelo
-        producto[3][183] = "460"
+        producto[3][183] = "400"
 
 
 
@@ -1108,7 +1104,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][184] = "184"//id
         producto[1][184] = "motorola" //marca
         producto[2][184] = "E20"//modelo
-        producto[3][184] = "500" //original
+        producto[3][184] = "420" //original
 
         producto[0][185] = "185"//id
         producto[1][185] = "motorola" //marca
@@ -1118,32 +1114,32 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][186] = "186"//id
         producto[1][186] = "motorola" //marca
         producto[2][186] = "E40"//modelo
-        producto[3][186] = "600" //original
+        producto[3][186] = "470" //original
 
         producto[0][187] = "187"//id
         producto[1][187] = "motorola" //marca
         producto[2][187] = "E4 plus"//modelo
-        producto[3][187] = "370" //original
+        producto[3][187] = "350" //original
 
         producto[0][188] = "188"//id
         producto[1][188] = "motorola" //marca
         producto[2][188] = "E5 / G6 play"//modelo
-        producto[3][188] = "430" //original
+        producto[3][188] = "400" //original
 
         producto[0][189] = "189"//id
         producto[1][189] = "motorola" //marca
         producto[2][189] = "E5 plus"//modelo
-        producto[3][189] = "500" //original
+        producto[3][189] = "400" //original
 
         producto[0][190] = "190"//id
         producto[1][190] = "motorola" //marca
         producto[2][190] = "E5 play W/F"//modelo
-        producto[3][190] = "500" //original
+        producto[3][190] = "400" //original
 
         producto[0][191] = "191"//id
         producto[1][191] = "motorola" //marca
         producto[2][191] = "E5 play go"//modelo
-        producto[3][191] = "400" //original
+        producto[3][191] = "380" //original
 
         producto[0][192] = "192"//id
         producto[1][192] = "motorola" //marca
@@ -1153,22 +1149,22 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][193] = "193"//id
         producto[1][193] = "motorola" //marca
         producto[2][193] = "E6S / E6i"//modelo
-        producto[3][193] = "500" //original
+        producto[3][193] = "430" //original
 
         producto[0][194] = "194"//id
         producto[1][194] = "motorola" //marca
         producto[2][194] = "E6 play"//modelo
-        producto[3][194] = "370" //original
+        producto[3][194] = "320" //original
 
         producto[0][195] = "195"//id
         producto[1][195] = "motorola" //marca
         producto[2][195] = "E6 plus"//modelo
-        producto[3][195] = "370" //original
+        producto[3][195] = "320" //original
 
         producto[0][196] = "196"//id
         producto[1][196] = "motorola" //marca
         producto[2][196] = "E7 / E7 power / E7i power"//modelo
-        producto[3][196] = "480" //original
+        producto[3][196] = "400" //original
 
         producto[0][197] = "197"//id
         producto[1][197] = "motorola" //marca
@@ -1178,17 +1174,17 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][198] = "198"//id
         producto[1][198] = "motorola" //marca
         producto[2][198] = "G 5G"//modelo
-        producto[3][198] = "550" //original
+        producto[3][198] = "480" //original
 
         producto[0][199] = "199"//id
         producto[1][199] = "motorola" //marca
         producto[2][199] = "G 5G plus"//modelo
-        producto[3][199] = "750" //original
+        producto[3][199] = "700" //original
 
         producto[0][200] = "200"//id
         producto[1][200] = "motorola" //marca
         producto[2][200] = "G5S"//modelo
-        producto[3][200] = "350" //original
+        producto[3][200] = "300" //original
 
         producto[0][201] = "201"//id
         producto[1][201] = "motorola" //marca
@@ -1203,82 +1199,82 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][203] = "203"//id
         producto[1][203] = "motorola" //marca
         producto[2][203] = "G6"//modelo
-        producto[3][203] = "420" //original
+        producto[3][203] = "410" //original
 
         producto[0][204] = "204"//id
         producto[1][204] = "motorola" //marca
         producto[2][204] = "G6 plus"//modelo
-        producto[3][204] = "470" //original
+        producto[3][204] = "430" //original
 
         producto[0][205] = "205"//id
         producto[1][205] = "motorola" //marca
         producto[2][205] = "G7 / G7 plus"//modelo
-        producto[3][205] = "540" //original
+        producto[3][205] = "530" //original
 
         producto[0][206] = "206"//id
         producto[1][206] = "motorola" //marca
         producto[2][206] = "G7 play"//modelo
-        producto[3][206] = "580" //original
+        producto[3][206] = "500" //original
 
         producto[0][207] = "207"//id
         producto[1][207] = "motorola" //marca
         producto[2][207] = "G7 power"//modelo
-        producto[3][207] = "440" //original
+        producto[3][207] = "350" //original
 
         producto[0][208] = "208"//id
         producto[1][208] = "motorola" //marca
         producto[2][208] = "G8"//modelo
-        producto[3][208] = "440" //original
+        producto[3][208] = "400" //original
 
         producto[0][209] = "209"//id
         producto[1][209] = "motorola" //marca
         producto[2][209] = "G8 play / One Macro"//modelo
-        producto[3][209] = "430" //original
+        producto[3][209] = "350" //original
 
         producto[0][210] = "210"//id
         producto[1][210] = "motorola" //marca
         producto[2][210] = "G8 plus"//modelo
-        producto[3][210] = "510" //original
+        producto[3][210] = "440" //original
 
         producto[0][211] = "211"//id
         producto[1][211] = "motorola" //marca
         producto[2][211] = "G8 power"//modelo
-        producto[3][211] = "520" //original
+        producto[3][211] = "500" //original
 
         producto[0][212] = "212"//id
         producto[1][212] = "motorola" //marca
         producto[2][212] = "G8 power lite"//modelo
-        producto[3][212] = "440" //original
+        producto[3][212] = "360" //original
 
         producto[0][213] = "213"//id
         producto[1][213] = "motorola" //marca
         producto[2][213] = "G9 / G9 play / E7 plus"//modelo
-        producto[3][213] = "440" //original
+        producto[3][213] = "350" //original
 
         producto[0][214] = "214"//id
         producto[1][214] = "motorola" //marca
         producto[2][214] = "G9 plus"//modelo
-        producto[3][214] = "515" //original
+        producto[3][214] = "500" //original
 
         producto[0][215] = "215"//id
         producto[1][215] = "motorola" //marca
         producto[2][215] = "G9 power"//modelo
-        producto[3][215] = "540" //original
+        producto[3][215] = "450" //original
 
         producto[0][302] = "302"//id
         producto[1][302] = "motorola" //marca
         producto[2][302] = "G10 play / G Power 2021"//modelo
-        producto[3][302] = "510" //original
+        producto[3][302] = "480" //original
 
         producto[0][216] = "216"//id
         producto[1][216] = "motorola" //marca
         producto[2][216] = "G10 / G30"//modelo
-        producto[3][216] = "455" //original
+        producto[3][216] = "350" //original
 
         producto[0][217] = "217"//id
         producto[1][217] = "motorola" //marca
         producto[2][217] = "G20"//modelo
-        producto[3][217] = "490" //original
+        producto[3][217] = "360" //original
 
         producto[0][303] = "303"//id
         producto[1][303] = "motorola" //marca
@@ -1293,22 +1289,22 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][218] = "218"//id
         producto[1][218] = "motorola" //marca
         producto[2][218] = "G50 - 4g"//modelo
-        producto[3][218] = "580" //original
+        producto[3][218] = "520" //original
 
         producto[0][219] = "219"//id
         producto[1][219] = "motorola" //marca
         producto[2][219] = "G50 - 5g"//modelo
-        producto[3][219] = "600" //original
+        producto[3][219] = "450" //original
 
         producto[0][220] = "220"//id
         producto[1][220] = "motorola" //marca
         producto[2][220] = "G60/G51/G60S/G40 Fusion"//modelo
-        producto[3][220] = "700" //original
+        producto[3][220] = "650" //original
 
         producto[0][221] = "221"//id
         producto[1][221] = "motorola" //marca
         producto[2][221] = "G100"//modelo
-        producto[3][221] = "760" //original
+        producto[3][221] = "740" //original
 
         producto[0][305] = "305"//id
         producto[1][305] = "motorola" //marca
@@ -1323,22 +1319,22 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][222] = "222"//id
         producto[1][222] = "motorola" //marca
         producto[2][222] = "One"//modelo
-        producto[3][222] = "540" //original
+        producto[3][222] = "420" //original
 
         producto[0][223] = "223"//id
         producto[1][223] = "motorola" //marca
         producto[2][223] = "One W/F"//modelo
-        producto[3][223] = "600" //original
+        producto[3][223] = "550" //original
 
         producto[0][224] = "224"//id
         producto[1][224] = "motorola" //marca
         producto[2][224] = "One hyper"//modelo
-        producto[3][224] = "560" //original
+        producto[3][224] = "520" //original
 
         producto[0][225] = "225"//id
         producto[1][225] = "motorola" //marca
         producto[2][225] = "One fusion"//modelo
-        producto[3][225] = "500" //original
+        producto[3][225] = "350" //original
 
         producto[0][226] = "226"//id
         producto[1][226] = "motorola" //marca
@@ -1363,7 +1359,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][230] = "230"//id
         producto[1][230] = "motorola" //marca
         producto[2][230] = "G play 2021"//modelo
-        producto[3][230] = "600" //original
+        producto[3][230] = "400" //original
 
         producto[0][307] = "307"//id
         producto[1][307] = "motorola" //marca
@@ -1383,17 +1379,17 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][233] = "233"//id
         producto[1][233] = "motorola" //marca
         producto[2][233] = "Z2 Play"//modelo
-        producto[3][233] = "600" //original
+        producto[3][233] = "580" //original
 
         producto[0][234] = "234"//id
         producto[1][234] = "motorola" //marca
         producto[2][234] = "Z3 Play"//modelo
-        producto[3][234] = "760" //original
+        producto[3][234] = "750" //original
 
         producto[0][235] = "235"//id
         producto[1][235] = "motorola" //marca
         producto[2][235] = "Z4"//modelo
-        producto[3][235] = "761" //original
+        producto[3][235] = "850" //original
 
 
 
@@ -1420,27 +1416,27 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][238] = "238"//id
         producto[1][238] = "oppo"
         producto[2][238] = "A12"//modelo
-        producto[5][238] = "450"//incell
+        producto[5][238] = "400"//incell
 
         producto[0][239] = "239"//id
         producto[1][239] = "oppo"
         producto[2][239] = "A15"//modelo
-        producto[5][239] = "500"//incell
+        producto[5][239] = "450"//incell
 
         producto[0][240] = "240"//id
         producto[1][240] = "oppo"
         producto[2][240] = "A16"//modelo
-        producto[5][240] = "460"//incell
+        producto[5][240] = "420"//incell
 
         producto[0][241] = "241"//id
         producto[1][241] = "oppo"
         producto[2][241] = "A53 - 4G"//modelo
-        producto[5][241] = "550"//incell
+        producto[5][241] = "530"//incell
 
         producto[0][242] = "242"//id
         producto[1][242] = "oppo"
         producto[2][242] = "A73"//modelo
-        producto[5][242] = "520"//incell
+        producto[5][242] = "500"//incell
 
         producto[0][243] = "243"//id
         producto[1][243] = "oppo"
@@ -1515,12 +1511,12 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][255] = "255"//id
         producto[1][255] = "xiaomi" //marca
         producto[2][255] = "MI NOTE 10"//modelo
-        producto[3][255] = "730" //original
+        producto[3][255] = "680" //original
 
         producto[0][256] = "256"//id
         producto[1][256] = "xiaomi" //marca
         producto[2][256] = "MI NOTE 10 LITE CURVA"//modelo
-        producto[3][256] = "750" //original
+        producto[3][256] = "700" //original
 
         producto[0][257] = "257"//id
         producto[1][257] = "xiaomi" //marca
@@ -1531,8 +1527,8 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[1][258] = "xiaomi" //marca
         producto[2][258] = "REDMI C3"//modelo
         producto[5][258] = "550" //incell
-        producto[0][259] = "259"//id
 
+        producto[0][259] = "259"//id
         producto[1][259] = "xiaomi" //marca
         producto[2][259] = "REDMI 4A"//modelo
         producto[5][259] = "330" //incell
@@ -1560,7 +1556,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][264] = "264"//id
         producto[1][264] = "xiaomi" //marca
         producto[2][264] = "REDMI 7"//modelo
-        producto[5][264] = "435" //incell
+        producto[5][264] = "410" //incell
 
         producto[0][265] = "265"//id
         producto[1][265] = "xiaomi" //marca
@@ -1596,7 +1592,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][271] = "271"//id
         producto[1][271] = "xiaomi" //marca
         producto[2][271] = "REDMI 9A / 9C"//modelo
-        producto[5][271] = "420" //incell
+        producto[5][271] = "380" //incell
 
         producto[0][272] = "272"//id
         producto[1][272] = "xiaomi" //marca
@@ -1666,13 +1662,13 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[0][285] = "285"//id
         producto[1][285] = "xiaomi" //marca
         producto[2][285] = "REDMI NOTE 10/Redmi Poco F3"//modelo
-        producto[4][285] = "1250" //oled
-        producto[5][285] = "750" //incell
+        producto[4][285] = "1100" //oled
+        producto[5][285] = "720" //incell
 
         producto[0][286] = "286"//id
         producto[1][286] = "xiaomi" //marca
         producto[2][286] = "REDMI NOTE 10S/Redmi Poco F3"//modelo
-        producto[4][286] = "1250" //oled
+        producto[4][286] = "1100" //oled
         producto[5][286] = "945" //incell
 
         producto[0][287] = "287"//id
