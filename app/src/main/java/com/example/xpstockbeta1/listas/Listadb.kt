@@ -860,6 +860,11 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         //honor
 
 
+        producto[0][308] = "308"//id
+        producto[1][308] = "honor"
+        producto[2][308] = "HONOR 8A"//modelo
+        producto[5][308] = "400"
+
 
         producto[0][141] = "141"//id
         producto[1][141] = "honor"
@@ -953,6 +958,11 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[1][157] = "huawei"
         producto[2][157] = "P30 PRO"//modelo
         producto[4][157] = "1300"
+
+        producto[0][288] = "288"//id
+        producto[1][288] = "huawei"
+        producto[2][288] = "P40 LITE/P20 LITE 2019/NOVA 5i "//modelo
+        producto[5][288] = "420"//cof
 
         producto[0][158] = "158"//id
         producto[1][158] = "huawei"
@@ -1433,6 +1443,11 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[2][241] = "A53 - 4G"//modelo
         producto[5][241] = "530"//incell
 
+        producto[0][309] = "309"//id
+        producto[1][309] = "oppo"
+        producto[2][309] = "A54 - 4G"//modelo
+        producto[5][309] = "530"//incell
+
         producto[0][242] = "242"//id
         producto[1][242] = "oppo"
         producto[2][242] = "A73"//modelo
@@ -1585,7 +1600,7 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
 
         producto[0][270] = "270"//id
         producto[1][270] = "xiaomi" //marca
-        producto[2][270] = "REDMI 9T"//modelo
+        producto[2][270] = "REDMI 9T / REDMI POCO M3"//modelo
         producto[4][270] = "980" //oled
         producto[5][270] = "560" //incell
 
@@ -1675,11 +1690,6 @@ class listadb(var idCelular: String, var datoRequerido: String)  {
         producto[1][287] = "xiaomi" //marca
         producto[2][287] = "REDMI NOTE 10 PRO"//modelo
         producto[4][287] = "3050" //oled
-
-        producto[0][288] = "288"//id
-        producto[1][288] = "xiaomi" //marca
-        producto[2][288] = "REDMI POCO M3"//modelo
-        producto[5][288] = "550" //incell
 
         producto[0][289] = "289"//id
         producto[1][289] = "xiaomi" //marca

@@ -1173,13 +1173,19 @@ class listaNombres(var celularIngresado: String){
         //Honor
 
 
+        producto[0][308] = "308"//id
+        producto[1][308] = "8A"
+        producto[2][308] = "HONOR8A"
+        producto[3][308] = "8AHONOR"
+        producto[4][308] = "8"
+        producto[6][308] = "HWHONOR8A"
+        producto[7][308] = "8AHONOR"
 
         producto[0][141] = "141"//id
         producto[1][141] = "8X"
         producto[2][141] = "HONOR8X"
         producto[3][141] = "8XHONOR"
         producto[4][141] = "8"
-        producto[5][141] = "X"
         producto[6][141] = "HWHONOR8X"
         producto[7][141] = "8XHONOR"
 
@@ -1319,6 +1325,18 @@ class listaNombres(var celularIngresado: String){
         producto[5][157] = "PRO"//incell
         producto[6][157] = "HWP30"//cof
         producto[8][157] = "P30PROHW"
+
+        producto[0][288] = "288"//id
+        producto[1][288] = "P20 LITE 2019"
+        producto[2][288] = "P40 LITE"//modelo
+        producto[3][288] = "NOVA 5i"//cof
+        producto[4][288] = "HW P20 LITE 2019"
+        producto[5][288] = "HW P40 LITE"//modelo
+        producto[6][288] = "HW NOVA 5i"//cof
+        producto[8][288] = "P20 LITE"
+        producto[9][288] = "P40"//modelo
+        producto[10][288] = "NOVA 5"//cof
+        producto[11][288] = "P20"
 
         producto[0][158] = "158"//id
         producto[1][158] = "P40"
@@ -1832,7 +1850,6 @@ class listaNombres(var celularIngresado: String){
         producto[8][302] = "gPower 2021" //original
         producto[9][302] = "G10"//modelo
 
-
         producto[0][216] = "216"//id
         producto[1][216] = "G30" //marca
         producto[2][216] = "G10"//modelo
@@ -2099,13 +2116,23 @@ class listaNombres(var celularIngresado: String){
 
         producto[0][241] = "241"//id
         producto[1][241] = "A53"
-        producto[2][241] = "A53-4G"//modelo
+        producto[2][241] = "A53 4G"//modelo
         producto[3][241] = "OPPOA53"
         producto[4][241] = "A"
         producto[5][241] = "53"//incell
         producto[6][241] = "OPPOA"
         producto[7][241] = "OPPO53"
         producto[8][241] = "A53OPPO"
+
+        producto[0][309] = "309"//id
+        producto[1][309] = "A54"
+        producto[2][309] = "A54 4G"//modelo
+        producto[3][309] = "OPPOA54"
+        producto[4][309] = "A"
+        producto[5][309] = "54"//incell
+        producto[6][309] = "OPPOA"
+        producto[7][309] = "OPPO54"
+        producto[8][309] = "A54OPPO"
 
         producto[0][242] = "242"//id
         producto[1][242] = "73"
@@ -2341,8 +2368,13 @@ class listaNombres(var celularIngresado: String){
         producto[1][270] = "xiaomi REDMI 9T" //marca
         producto[2][270] = "REDMI 9T"//modelo
         producto[3][270] = "9t" //original
-        producto[4][270] = "redmi" //oled
-        producto[5][270] = "mi REDMI 9T" //incell
+        producto[4][270] = "REDMI POCO M3"//modelo
+        producto[9][270] = "POCO M3" //original
+        producto[5][270] = "xioami poco m3" //incell
+        producto[6][270] = "mi poco m3" // cof
+        producto[7][270] = "poco" //cog
+        producto[8][270] = "m3" // tft
+        producto[10][270] = "mI 9T" // tft
 
 
         producto[0][271] = "271"//id
@@ -2494,16 +2526,6 @@ class listaNombres(var celularIngresado: String){
         producto[3][287] = "miREDMI NOTE 10 PRO" //original
         producto[4][287] = "redmi" //oled
         producto[5][287] = "NOTE 10 PRO" //incell
-
-        producto[0][288] = "288"//id
-        producto[1][288] = "xiaomiREDMI POCO M3" //marca
-        producto[2][288] = "REDMI POCO M3"//modelo
-        producto[3][288] = "POCO M3" //original
-        producto[4][288] = "mi REDMI POCO M3" //oled
-        producto[5][288] = "xioami poco m3" //incell
-        producto[6][288] = "mi poco m3" // cof
-        producto[7][288] = "poco" //cog
-        producto[8][288] = "m3" // tft
 
         producto[0][289] = "289"//id
         producto[1][289] = "xiaomiREDMI POCO x3" //marca
