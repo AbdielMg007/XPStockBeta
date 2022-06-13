@@ -14,19 +14,18 @@ class adapterTargetBusqueda(private val activity: Activity, var datoMarca: Strin
     val opcion = opcion(datoMarca)
 
     val newModelo: Array<String?> = llenarModelo(opcion, datoMarca)
-    val tamanoArreglos = newModelo.size
-    val arregloPrecios: Array<Array<String?>> = crearArregloPrecios(opcion, datoMarca)
+    val newPrecio: Array<String?> = llenarPrecio(opcion, datoMarca)
 
     inner class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
 
         var iModelo: TextView
-        var iCalidades: RecyclerView
+        var iPrecio: TextView
 
 
 
         init {
             iModelo = itemView.findViewById(R.id.itemModeloPrecios)
-            iCalidades = itemView.findViewById(R.id.calidadesPrecios)
+            iPrecio = itemView.findViewById(R.id.itemPrecioPrecios)
 
         }
     }
@@ -40,13 +39,9 @@ class adapterTargetBusqueda(private val activity: Activity, var datoMarca: Strin
     override fun getItemCount() =  newModelo.size
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val newCalidad: Array<String?> = llenarPrecios(opcion,position, arregloPrecios)
-        val calidades = adapterCalidades(newCalidad)
-        val linearLayoutManager = LinearLayoutManager(activity)
 
         holder.iModelo.text = newModelo[position]
-        holder.iCalidades.layoutManager = linearLayoutManager
-        holder.iCalidades.adapter = calidades
+        holder.iPrecio.text = newPrecio[position]
     }
 
 }

@@ -29,8 +29,8 @@ class buscar : AppCompatActivity() {
         if(busqueda.uppercase() == "IPHONE" || busqueda.uppercase() == "IPH"){
             busqueda = "apple"
         }
-        if(busqueda.uppercase() == "MOTO"|| busqueda.uppercase() == "MO"){
-            busqueda = "motorola"
+        if(busqueda.uppercase() == "MOTOROLA"|| busqueda.uppercase() == "MO"){
+            busqueda = "moto"
         }
         if(busqueda.uppercase() == "MI"){
             busqueda = "xiaomi"
